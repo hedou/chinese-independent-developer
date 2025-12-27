@@ -20,6 +20,73 @@
 
 ## 3. 项目列表
 
+### 2025 年 12 月 26 号添加
+
+#### LeeYuze - [Github](https://github.com/LeeYuze)
+* :white_check_mark: [WhatsMyName](https://www.whatsmyname.cc/)：OSINT 用户名搜索与可用性检查工具，可实时扫描 700+ 平台，验证账号存在与数字足迹（匿名、不记录搜索历史）。
+
+#### 菩提尘埃(厦门) - [Github](https://github.com/waterlines)
+* :white_check_mark: [外链管理系统](https://backlink.dreamthere.cn)：SEO外链管理系统
+
+### picaro - [Github](https://github.com/2002pipi)
+* :white_check_mark: [FlowSpeech](https://flowspeech.io)：文本转语音，声音接近人类
+
+### 2025 年 12 月 24 号添加
+
+#### nanobanana-co - [Github](https://github.com/nanobanana-co)
+* :white_check_mark: [Nano Banana Pro](https://nanobanana.co/zh)：AI 图像与视频生成平台，支持精准区域编辑、照片修复、风格转换、多图融合、角色一致性保持及视频生成
+
+#### Rock(上海)
+* :white_check_mark: [Graffiti generator](https://www.graffitigenerators.com/)：AI 街头涂鸦艺术生成器（基于 Nano Banana Pro）
+
+### 2025 年 12 月 23 号添加
+
+#### Albert-Weasker - [Github](https://github.com/Albert-Weasker)
+* :white_check_mark: [牛逼 Star](https://www.niubistar.com)：面向开源开发者的 GitHub Star 互助与项目展示平台，让用户互相为项目点 “Star”，帮助开源项目获得真实曝光和更高关注度
+* :white_check_mark: [Intent-Leads](https://www.intent-leads.com/)：帮助企业自动发现和整理“高意图潜在客户”线索，基于社交媒体和公开平台行为数据（即正在主动寻找产品/服务的人）以便联系和转化的获客工具
+
+#### tancky777 - [Github](https://github.com/tancky777)
+* :white_check_mark: [LensGo AI](https://lensgoai.co/)：AI 视频 & 图片创作，专注于动漫艺术风格的图片风格迁移或图片、视频制作
+* :white_check_mark: [Gemini Watermark Remover](https://geminiwatermark.net/)：Gemini AI 图片、nano banana、nano banana pro 去水印
+
+#### zhangchenchen - [Github](https://github.com/zhangchenchen)
+* :white_check_mark: [music0](https://music0.org/)：AI 音乐/音乐视频生成平台
+
+### 2025 年 12 月 22 号添加
+
+#### Yiann(大连) - [Github](https://github.com/taingh)
+* :white_check_mark: [UniMusic AI](https://unimusic.ai)：AI 音乐生成 - 根据你的描述一键生成专业完整的音乐
+
+#### amierhan - [Github](https://github.com/amierhan)
+* :white_check_mark: [nbpro.io](https://nbpro.io/)：一站式 AI 图像与视频生成平台，整合了当前领先的图像与视频生成模型，包括 Nano Banana、Nano Banana Pro、sora2 等。平台内置智能提示词优化器，并提供大量真实可参考的生成案例，帮助用户创作高质量内容，生成的图片和视频均不带水印，适用于多种专业与商业场景
+
+#### zhugezifang - [Github](https://github.com/zhugezifang)
+* :white_check_mark: [颜值评分](https://howattractiveami.app/zh)：AI 颜值测试
+* :white_check_mark: [在线眼型测试](https://eyeshapedetector.app/zh)：AI 眼型分析
+* :white_check_mark: [面部年龄计算器](https://howolddoyoulook.app/zh)：AI 面部年龄检测器
+
+### 2025 年 12 月 21 号添加
+
+#### azt1112 - [Github](https://github.com/azt1112)
+* :white_check_mark: [GPT Image 1.5](https://chatgptimage15.com/)：AI 图片生成网站，基于 GPT Image 1.5
+
+### 2025 年 12 月 20 号添加
+
+#### yoga666yoga888-lgtm - [Github](https://github.com/yoga666yoga888-lgtm)
+* :white_check_mark: [Sora21](https://www.sora21.com/)：视频生成网站，基于 Sora2 模型，高性价比
+
+#### hwlvipone - [Github](https://github.com/hwlvipone)
+* :white_check_mark: [palm reading online](https://palm-reading.app/)：AI 看手相网站
+
+#### allen2peace - [Github](https://github.com/allen2peace)
+* :white_check_mark: [FluentDictation](http://fluentdictation.com/)：使用任意 YouTube 视频练习英语听写、英语跟读能力
+
+#### jankarong - [Github](https://github.com/jankarong)
+* :white_check_mark: [AI YouTube 缩略图生成器](https://aithumbnailcreator.com/)：生成 Youtube 缩略图，可免费下载，支持纯色或渐变背景
+
+#### hwlvipone - [Github](https://github.com/hwlvipone)
+* :white_check_mark: [ZestyGen](https://zestygen.com/)：基于 Nano Banana Pro 的图片视频聚合网站
+
 ### 2025 年 12 月 18 号添加
 #### jonbrown66 - [Github](https://github.com/jonbrown66/bananacanvas-ai)
 * :white_check_mark: [BananaCanvas AI](https://bananacanvas-ai.vercel.app/)： 前沿的创意工作区，结合了基于对话的 AI 交互和无限画布，用于多模态内容创作。
