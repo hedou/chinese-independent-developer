@@ -2,6 +2,20 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 1 月 3 号添加
+#### 290713469 - [Github](https://github.com/290713469)
+* :white_check_mark: [Anime Fighting Simulator Calculator](https://anime-fighting-simulator.com)：Roblox Anime Fighting Simulator游戏工具
+
+### 2026 年 1 月 2 号添加
+* :white_check_mark: [PokePath-TD](https://play-pokepath-td.online/)：PokePath-TD一款海外爆火的宝可梦塔防游戏，在9 条不同的路线上抵御一波又一波的敌人，失败了也可以累积资源和升级宝可梦成员。
+
+### 2025 年 12 月 27 号添加
+* :white_check_mark: [Riddle School](https://riddle-school.online/)：Riddle School 是一款以校园为背景的解谜冒险游戏，采用简单直观的点击操作方式，适合各类玩家上手。游戏通过一系列环环相扣的谜题，引导玩家不断思考不同道具和场景之间的关系。解谜过程清晰，让人能够专注于推理本身。
+
+### 2025 年 12 月 21 号添加
+#### shuiwuhen - [GitHub](https://github.com/290713469)
+* :white_check_mark: [Universal Tower Defense Calculator](https://universaltowerdefensecalculator.com)：Roblox 游戏 Universal Tower Defense 工具站
+
 ### 2025 年 12 月 14 号添加
 #### seven(沈阳)
 * :white_check_mark: [Pips game](https://pipsgame.dev/): 每日逻辑谜题，你通过纯推理放置多米诺骨牌——无需猜测（Pips Game is a daily logic puzzle where you place dominoes using pure deduction — no guessing）
