@@ -20,6 +20,164 @@
 
 ## 3. 项目列表
 
+### 2026 年 01 月 09 号添加
+
+#### tzzp1224 - [Github](https://github.com/tzzp1224)
+* :white_check_mark: [RepoReaper](https://www.realdexter.com/)：Github AI 代码审计探员（基于 DeepSeek），面向计算机学生和初学者的源码阅读教育工具
+
+#### wo-zx - [Github](https://github.com/wo-zx)
+* :white_check_mark: [上码 (Upma)](https://upma.cn/)：静态网站托管平台，专为国内开发者打造，支持 React / Vue / Next.js 一键部署与 CDN 全球加速
+
+### 2026 年 01 月 08 号添加
+
+#### BC - [Github](https://github.com/cwingho)
+* :white_check_mark: [UV Index Today](https://uvindex.cc/)：实时显示所在地紫外线指数的工具
+
+#### allen2peace - [Github](https://github.com/allen2peace)
+* :white_check_mark: [ChatFlowchart](https://chatflowchart.com/)：通过语言描述生成图表，可编辑文案，可导出 PDF 或图片
+
+#### xbaicai0 - [Github](https://github.com/xbaicai0)
+* :white_check_mark: [zimageturbo](https://zimageturbo.com/)：通过语言描述生成图片
+
+#### Jack
+* :white_check_mark: [YourRizzAI](https://yourizzai.com)：AI 聊天分析工具，一键生成自然的约会对话和回复建议
+
+### 2026 年 01 月 07 号添加
+#### yzqzy - [Github](https://github.com/yzqzy)
+* :white_check_mark: [TradeSignal](https://tradersignal.org/)：AI 股票分析 + 专业盘后复盘工具｜价值为基、趋势为策
+
+#### Mr-ZhangBo - [Github](https://github.com/Mr-ZhangBo)
+* :white_check_mark: [Easydown](https://www.easydown.org/en)：下载 TikTok、YouTube、Twitter 视频
+
+#### pillow(重庆市)
+* :white_check_mark: [grok images](https://grokimages.org/)：AI 图片平台，将想法变成视觉作品
+
+### 2026 年 01 月 05 号添加
+
+#### Brian Chan - [Github](https://github.com/cwingho)
+* :white_check_mark: [Collage87](https://collage87.com/)：创建精美网格照片
+
+#### WtecHtec(深圳) - [Github](https://github.com/WtecHtec), [博客](github.com/WtecHtec)
+* :white_check_mark: [SnapWrite](https://snapwrite.xujingyichang.top/)：专注微信公众号的 AI 自动排版工具。一键将文本转化为精美移动端布局，支持实时手机预览与富文本一键复制。
+
+#### lizhichao  - [Github](https://github.com/lizhichao)
+* :white_check_mark: [时间转换为工具](https://gorm.vicsdf.com/time.html)：支持批量转换、填写备注、切换时区
+
+### 2026 年 01 月 04 号添加
+
+#### JentleTao - [Github](https://github.com/Hipepper)
+* :white_check_mark: [SecTech Vis 安全能力可视化](https://tipfactory.jentletao.top/)：可视化安全对抗技术平台 - [开源地址](https://github.com/Hipepper/SecTech-Vis)
+
+### 2026 年 01 月 03 号添加
+
+#### Space Time - [Github](https://github.com/SpaceTimee), [博客](https://blog.spacetimee.xyz)
+* :white_check_mark: [Sheas Frameg](https://frameg.spacetimee.xyz)：开源光流法在线视频插帧工具 - [更多介绍](https://github.com/SpaceTimee/Sheas-Frameg)
+
+#### WtecHtec(深圳)
+* :white_check_mark: [WordMoment](https://wordmoment.xujingyichang.top/)：专注于背单词的纯前端 Web 应用 - [开源地址](https://github.com/WtecHtec/WordMoment)
+
+#### hackun666 - [Github](https://github.com/hackun666)
+* :white_check_mark: [软著 Pro](https://ruanzhu.pro)：AI 软著生成器，帮助用户生成软件著作权申请文档
+
+### 2026 年 01 月 01 号添加
+
+#### Flicker(成都)
+* :white_check_mark: [VoiceAILabs](https://voiceailabs.com/)：专业AI声音克隆平台，创建您的语音克隆角色
+
+#### zhouzhili - [Github](https://github.com/zhouzhili)
+* :white_check_mark: [QQ相册下载器](https://blog.aitoolwang.com/qq/)：三步完成QQ空间、QQ群相册照片批量下载到电脑，原图原视频下载，保留拍摄时间。
+
+### 2025 年 12 月 31 号添加
+
+#### wangxiaosu - [Github](https://github.com/wangxiaosu)
+* :white_check_mark: [Text Behind Image](https://text-behind-image.org/)：实现“字在人后”视觉深度，制作高级感海报
+
+#### xiaolige 长沙
+* :white_check_mark: [nano-banana中文站](https://www.nano-banana.cn/zh)：提供提示词模板，帮助用户快速生成图片
+
+#### lingglee(武汉) - [Github](https://github.com/lingglee)
+* :white_check_mark: [authletter.com](https://www.authletter.com)：委托信模板站，提供各种场景委托信模板，支持 AI 一句话生成委托信、编辑和下载
+
+### 2025 年 12 月 29 号添加
+
+#### jiyifeng(重庆) -
+* :white_check_mark: [Upscale image](https://upscale-image.org/)：增强和放大图像
+
+### 2025 年 12 月 28 号添加
+
+#### StarCityBro(长沙)
+* :white_check_mark: [FeiHub](https://feihub.top)：公开的飞书文档搜索，已收录包括：垂直小店、Gemini、AI产品、Claude Code、CPS、Sora、AI工作流、AI视频、AI短剧、AI漫剧、AI漫画、YouTube、小红书电商、电商选品、AI自媒体、n8n、私域运营、B站好物、外卖推客、RPA等 6000+的知识文档。
+
+#### Albert-Weasker - [Github](https://github.com/Albert-Weasker)
+* :white_check_mark: [fuckpua](https://www.saynopua.com)：用 AI 帮助识别和抵抗情感操控与PUA套路、提供分析和练习工具的心理防护平台
+
+### 2025 年 12 月 26 号添加
+
+#### LeeYuze - [Github](https://github.com/LeeYuze)
+* :white_check_mark: [WhatsMyName](https://www.whatsmyname.cc/)：OSINT 用户名搜索与可用性检查工具，可实时扫描 700+ 平台，验证账号存在与数字足迹（匿名、不记录搜索历史）。
+
+#### 菩提尘埃(厦门) - [Github](https://github.com/waterlines)
+* :white_check_mark: [外链管理系统](https://backlink.dreamthere.cn)：SEO外链管理系统
+
+### picaro - [Github](https://github.com/2002pipi)
+* :white_check_mark: [FlowSpeech](https://flowspeech.io)：文本转语音，声音接近人类
+
+### 2025 年 12 月 24 号添加
+
+#### nanobanana-co - [Github](https://github.com/nanobanana-co)
+* :white_check_mark: [Nano Banana Pro](https://nanobanana.co/zh)：AI 图像与视频生成平台，支持精准区域编辑、照片修复、风格转换、多图融合、角色一致性保持及视频生成
+
+#### Rock(上海)
+* :white_check_mark: [Graffiti generator](https://www.graffitigenerators.com/)：AI 街头涂鸦艺术生成器（基于 Nano Banana Pro）
+
+### 2025 年 12 月 23 号添加
+
+#### Albert-Weasker - [Github](https://github.com/Albert-Weasker)
+* :white_check_mark: [牛逼 Star](https://www.niubistar.com)：面向开源开发者的 GitHub Star 互助与项目展示平台，让用户互相为项目点 “Star”，帮助开源项目获得真实曝光和更高关注度
+* :white_check_mark: [Intent-Leads](https://www.intent-leads.com/)：帮助企业自动发现和整理“高意图潜在客户”线索，基于社交媒体和公开平台行为数据（即正在主动寻找产品/服务的人）以便联系和转化的获客工具
+
+#### tancky777 - [Github](https://github.com/tancky777)
+* :white_check_mark: [LensGo AI](https://lensgoai.co/)：AI 视频 & 图片创作，专注于动漫艺术风格的图片风格迁移或图片、视频制作
+* :white_check_mark: [Gemini Watermark Remover](https://geminiwatermark.net/)：Gemini AI 图片、nano banana、nano banana pro 去水印
+
+#### zhangchenchen - [Github](https://github.com/zhangchenchen)
+* :white_check_mark: [music0](https://music0.org/)：AI 音乐/音乐视频生成平台
+
+### 2025 年 12 月 22 号添加
+
+#### Yiann(大连) - [Github](https://github.com/taingh)
+* :white_check_mark: [UniMusic AI](https://unimusic.ai)：AI 音乐生成 - 根据你的描述一键生成专业完整的音乐
+
+#### amierhan - [Github](https://github.com/amierhan)
+* :white_check_mark: [nbpro.io](https://nbpro.io/)：一站式 AI 图像与视频生成平台，整合了当前领先的图像与视频生成模型，包括 Nano Banana、Nano Banana Pro、sora2 等。平台内置智能提示词优化器，并提供大量真实可参考的生成案例，帮助用户创作高质量内容，生成的图片和视频均不带水印，适用于多种专业与商业场景
+
+#### zhugezifang - [Github](https://github.com/zhugezifang)
+* :white_check_mark: [颜值评分](https://howattractiveami.app/zh)：AI 颜值测试
+* :white_check_mark: [在线眼型测试](https://eyeshapedetector.app/zh)：AI 眼型分析
+* :white_check_mark: [面部年龄计算器](https://howolddoyoulook.app/zh)：AI 面部年龄检测器
+
+### 2025 年 12 月 21 号添加
+
+#### azt1112 - [Github](https://github.com/azt1112)
+* :white_check_mark: [GPT Image 1.5](https://chatgptimage15.com/)：AI 图片生成网站，基于 GPT Image 1.5
+
+### 2025 年 12 月 20 号添加
+
+#### yoga666yoga888-lgtm - [Github](https://github.com/yoga666yoga888-lgtm)
+* :white_check_mark: [Sora21](https://www.sora21.com/)：视频生成网站，基于 Sora2 模型，高性价比
+
+#### hwlvipone - [Github](https://github.com/hwlvipone)
+* :white_check_mark: [palm reading online](https://palm-reading.app/)：AI 看手相网站
+
+#### allen2peace - [Github](https://github.com/allen2peace)
+* :white_check_mark: [FluentDictation](http://fluentdictation.com/)：使用任意 YouTube 视频练习英语听写、英语跟读能力
+
+#### jankarong - [Github](https://github.com/jankarong)
+* :white_check_mark: [AI YouTube 缩略图生成器](https://aithumbnailcreator.com/)：生成 Youtube 缩略图，可免费下载，支持纯色或渐变背景
+
+#### hwlvipone - [Github](https://github.com/hwlvipone)
+* :white_check_mark: [ZestyGen](https://zestygen.com/)：基于 Nano Banana Pro 的图片视频聚合网站
+
 ### 2025 年 12 月 18 号添加
 #### jonbrown66 - [Github](https://github.com/jonbrown66/bananacanvas-ai)
 * :white_check_mark: [BananaCanvas AI](https://bananacanvas-ai.vercel.app/)： 前沿的创意工作区，结合了基于对话的 AI 交互和无限画布，用于多模态内容创作。
@@ -1375,10 +1533,6 @@
 
 ##### Sarkory(广州)
 - :white_check_mark: [Veo 3 AI](https://veo3ai.org)：Veo 3 AI 视频生成
-
-### 2025 年 5 月 24 号添加
-#### yzqzy - [Github](https://github.com/yzqzy)
-- :white_check_mark: [TradeSignal](https://github.com/yzqzy/trade-signal-docs)：整合多维度市场数据，提供专业的投资分析工具
 
 ### 2025 年 5 月 22 号添加
 #### Sawana Huang
@@ -4149,6 +4303,8 @@ OldPanda [GitHub](https://github.com/OldPanda), [博客](https://old-panda.com/)
 * :white_check_mark: [红色工具箱](https://apps.apple.com/cn/app/id1473577627)：多个创意实用小工具集合，如肌肉启动，截屏记事，指尖轮盘等
 
 #### Hancel.Lin(深圳) - [GitHub](https://github.com/imlinhanchao), [博客](http://hancel.org/)
+* :white_check_mark: [摸鱼竞技大厅](https://room.adventext.fun/)：休闲游戏竞技大厅，支持多人在线联机游戏，包含多种休闲桌游与棋牌游戏。另外包含完整二次开发接口，可以快速开发出任意多人在线回合制游戏。 - [更多介绍](https://tiaoom.com/)
+* :white_check_mark: [WJU Puzzle](https://wju.adventext.fun/)：WJU 字母解密游戏，通过 5 种操作规则，解出 WJU 字母序列。 - [更多介绍](https://github.com/imlinhanchao/wju)
 * :white_check_mark: [Adventext & 千屿引擎](https://adventext.fun/)：文字冒险游戏引擎，包含用来创作文字冒险游戏的在线编辑器以及运行游戏的引擎，你可以在这里创作文字冒险游戏，调试运行。然后推送给世界上的任何玩家游玩！ - [更多介绍](https://github.com/imlinhanchao/adventext)
 * :white_check_mark: [Time 时间胶囊](https://time-pack.com/)：封存记忆，送给未来。基于小程序实现的时间胶囊，支持胶囊提醒与赠送胶囊。 - [更多介绍](https://github.com/imlinhanchao/time-pack-miniprogram)
 * :white_check_mark: [Cashflow 钱去哪儿了](https://s.hancel.org/)：个人消费交易记录管理分析网站应用，通过同步微信与支付宝对账单，管理个人消费交易数据。 - [更多介绍](https://github.com/imlinhanchao/cashflow)
