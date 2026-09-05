@@ -23,6 +23,11 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+### 2026 年 9 月 6 号添加
+
+#### codeugar - [Github](https://github.com/codeugar)
+* :white_check_mark: [Seadanse](https://seadanse.com)：多模型 AI 视频生成平台，支持通过 Composer 工作台生成带声多镜头视频，并提供一句话自动拆解广告分镜与故事板的 AI Video Agent 功能 - [更多介绍](https://seadanse.com/ai-video-agent)
+
 ### 2026 年 9 月 5 号添加
 
 #### zibo-chen - [Github](https://github.com/zibo-chen)
