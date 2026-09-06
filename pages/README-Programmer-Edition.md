@@ -16,6 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 9 月 6 号添加
+
+#### Tony Chen - [Github](https://github.com/zhiqingchen)
+* :white_check_mark: [RunWhale](https://github.com/zhiqingchen/RunWhale)：基于 DeepSeek Harness 的开源手机 AI 编程工具，描述需求后生成或修改 Web / Expo 项目，并在同一部手机上预览；支持导入 Git 仓库 - [iOS 下载](https://apps.apple.com/app/id6807644595)
+
 ### 2026 年 9 月 3 号添加
 
 #### tans - [Github](https://github.com/tans)
