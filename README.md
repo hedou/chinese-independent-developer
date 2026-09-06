@@ -3344,7 +3344,7 @@
 * :white_check_mark: [EZ-translate](https://chromewebstore.google.com/detail/ahlibmildbganmkdhokbkfanpaakpgfd?utm_source=item-share-cb)：AI 浏览器翻译插件(免费)，支持页面内翻译，截图翻译，自动检测语言 - [开源仓库](https://github.com/licon/llm-translate)
 
 #### 饭特稀 - [Github](https://github.com/shineforever)
-* :white_check_mark: [SiteData](https://sitedata.dev)：网站流量与 AdSense 反查工具(免费)，无需登录即可使用 - [Chrome 浏览器插件](https://chromewebstore.google.com/detail/emeakbgdecgmdjgegnejpppcnkcnoaen)
+* :white_check_mark: [SiteData](https://sitedata.dev)：网站流量查询与 SEO/Google Ads 情报工具，支持任意网站流量估算、Reverse AdSense 反查（发现同发布者的站点网络）、Google Ads 广告主与关键词分析、域名信息与 DR 查询，并提供 Chrome/Edge 浏览器插件 - [浏览器插件](https://chromewebstore.google.com/detail/emeakbgdecgmdjgegnejpppcnkcnoaen)
 
 #### Ryan - [Github](https://github.com/Ryan10Yu)
 * :white_check_mark: [AI Song](https://aisong.tech/)：AI 生成歌曲、歌词的音乐网站
