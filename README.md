@@ -1822,6 +1822,10 @@
 
 #### lisa - [Github](https://github.com/shisan12323)
 * :white_check_mark: [HappyHorse](https://www.happyhorse20.com/)：AI 视频生成，支持文生视频、图生视频
+* :white_check_mark: [Flow AI Video](https://flowaivideo.org)：在线 AI 视频生成工具，支持文字、图片和参考图生成视频，可选择画面比例、分辨率与视频时长
+* :white_check_mark: [Upscayl](https://upscayl.app)：在线 AI 图片放大与增强工具，支持图片去模糊、老照片修复和背景移除，无需安装桌面软件
+* :white_check_mark: [Video Watermark Remover](https://videowatermarkremover.org/)：在线视频水印清理工具，支持上传 MP4、AVI、MOV 等格式，并提供视频文字、标识和物体移除工具
+* :white_check_mark: [Seed Imagine](https://seedimagine.com/)：AI 图片与视频创作工作台，支持文生图、图像编辑、文生视频和图生视频，可在同一网页选择模型和调整输出参数
 
 ### 2026 年 4 月 10 号添加
 
