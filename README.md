@@ -23,6 +23,11 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+### 2026 年 9 月 7 号添加
+
+#### SiteHunter - [Github](https://github.com/SiteHunter)
+* :white_check_mark: [SiteHunter](https://sitehunter.org)：为独立开发者、创业者打造的市场调研平台。找 saas 创业点子不再靠直觉，SiteHunter 监控了一批真实的流量增长数据，用数据看清哪个赛道正在增长，从一个被验证的市场开始
+
 ### 2026 年 9 月 6 号添加
 
 #### codeugar - [Github](https://github.com/codeugar)

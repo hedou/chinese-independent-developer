@@ -2,6 +2,11 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 9 月 7 号添加
+
+#### linrn5566 - [Github](https://github.com/linrn5566)
+* :white_check_mark: [Mimic Party Online](https://mimicparty.org)：听一段短声音，用自己的声音模仿它，再获得相似度评分；内置 10 个 Sound World，支持 Daily Challenge 和 Survival 等模式，录音和评分均在本地完成、声音不上传 — 浏览器即开即玩的免费声音模仿游戏
+
 ### 2026 年 8 月 28 号添加
 
 #### ethanethan(上海) - [Github](https://github.com/lianyixin)
