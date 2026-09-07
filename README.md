@@ -27,7 +27,7 @@
 ### 2026 年 9 月 7 号添加
 
 #### aiScribeFlash（北京） - [Github](https://github.com/overseax)
-* :white_check_mark: [ScribeFlash](https://scribeflash.com/?utm_source=github)：ScribeFlash 是一款面向产品、市场与用户研究团队的 AI 研究工作台，帮助你把客户访谈快速转化为有证据支撑的洞察与专业研究报告。你可以上传访谈、查看和编辑转录内容、按研究问题整理答案、对比不同参与者、沉淀关键证据，并跨多场访谈发现主题、趋势和共识。每条 Finding 都可追溯到原始引用，让团队更快分析、更放心验证，也更容易输出可分享、可执行的研究结论
+* :white_check_mark: [ScribeFlash](https://scribeflash.com/?utm_source=github)：面向产品、市场与用户研究团队的 AI 研究工作台，帮助你把客户访谈快速转化为有证据支撑的洞察与专业研究报告。你可以上传访谈、查看和编辑转录内容、按研究问题整理答案、对比不同参与者、沉淀关键证据，并跨多场访谈发现主题、趋势和共识。每条 Finding 都可追溯到原始引用，让团队更快分析、更放心验证，也更容易输出可分享、可执行的研究结论
 
 #### emptylower - [Github](https://github.com/emptylower)
 * :white_check_mark: [SeichiGo 圣地巡礼](https://seichigo.com)：动漫圣地巡礼行程规划工具，选作品和天数，AI Agent 生成含交通衔接的逐日路线；全球巡礼地图 5 万+ 点位、1,500+ 作品，简中/繁中/日/英四语
@@ -71,7 +71,7 @@
 * :white_check_mark: [RGB TO CMYK](https://rgbtocmyk.net/)：基于印刷行业专业色彩转换引擎设计的 RGB 转 CMYK 在线工具，支持内置及自定义 ICC 配置文件，实现无与伦比的色彩保真度
 
 #### CoderLim(北京) - [Github](https://github.com/CoderLim)
-* :white_check_mark: [Video Text Remover](https://videotextremover.org/)：AI-powered tool to erase text, captions, and subtitles from any video
+* :white_check_mark: [Video Text Remover](https://videotextremover.org/)：AI 视频文字擦除工具，去除视频中的文字、字幕和说明文字
 
 #### dong13 - [Github](https://github.com/dong13yu)
 * :white_check_mark: [PicEditor](https://piceditor.org/)：AI 图片编辑和生成工具，用自然语言换背景、移除物体、修改图片文字或生成新图，首次使用无需注册
