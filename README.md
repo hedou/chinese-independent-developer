@@ -5,6 +5,7 @@
 - [程序员版面](./pages/README-Programmer-Edition.md)：使用需要命令行或写代码
 - [游戏版面](./pages/README-Game.md)：都是游戏
 - [2018 ~ 2020 年项目列表](./pages/README-2018-2020.md)：因 GitHub 渲染限制单独存档
+- [导航站：AI 独立制造所](https://indiemaker.cn/)：本清单的可搜索、可筛选、每日自动同步的可视化版本
 
 备注：您当前查看的是主版面，收录的产品是打开即用，和子版面中的产品类型不同。
 
