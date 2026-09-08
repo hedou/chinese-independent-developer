@@ -24,6 +24,11 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+### 2026 年 9 月 9 号添加
+
+#### sweesama - [Github](https://github.com/sweesama)
+* :white_check_mark: [ReadGZH](https://readgzh.site/)：微信公众号文章 AI 阅读工具，粘贴链接生成便于 AI 读取的页面，另提供 API 与 MCP 接入
+
 ### 2026 年 9 月 8 号添加
 
 #### zjzno1 - [Github](https://github.com/zjzno1)
