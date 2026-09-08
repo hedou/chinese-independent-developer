@@ -26,6 +26,13 @@
 ## 3. 项目列表
 ### 2026 年 9 月 8 号添加
 
+#### zjzno1 - [Github](https://github.com/zjzno1)
+* :white_check_mark: [热摸爽](https://remoshuang.com/)：面向普通用户的全网热搜热榜聚合网站，一站查看微博、知乎、抖音、GitHub Trending 等 200+ 公开来源，支持科技、AI、财经等分类、跨平台事件合并和按日期回看历史热点 — 无需注册，打开即用
+
+#### 肖戈(深圳) - [Github](https://github.com/jvxiao)
+* :white_check_mark: [Erase Background Pro](https://erasebgpro.com)：无需注册、免费即用的 AI 一键抠图工具，秒级输出边缘干净的透明 PNG，支持电商人像/发丝细节与 4K 高清，提供批量处理、免费试用与开发者 API
+* :white_check_mark: [薯小二](https://xhs.jvxiao.cn/)：小红书合规运营工具箱，违禁词一键检测+替换建议、AI 爆款标题生成、笔记收录限流自查，纯网页端免安装，新人每天免费发车
+
 #### rain(深圳) - [Github](https://github.com/wang1309)
 * :white_check_mark: [LoveComic](https://lovecomic.app/)：AI 漫画生成网站，支持自动与人工控制双重模式，自定义对话气泡、字体等；还有 flow 画布模式，可自由编排节点生成漫画
 
