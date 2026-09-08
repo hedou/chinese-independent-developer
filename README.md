@@ -24,6 +24,17 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+### 2026 年 9 月 8 号添加
+
+#### rain(深圳) - [Github](https://github.com/wang1309)
+* :white_check_mark: [LoveComic](https://lovecomic.app/)：AI 漫画生成网站，支持自动与人工控制双重模式，自定义对话气泡、字体等；还有 flow 画布模式，可自由编排节点生成漫画
+
+#### 南宫文凯 - [博客](https://blog.csdn.net/qq_34730277)
+* :white_check_mark: [NotePP](https://luminousstars.org/)：macOS 平台的 Notepad++ 替代方案，在 Mac 上也能流畅使用 Notepad++ 的编辑体验
+
+#### fengmao - [Github](https://github.com/fengmao)
+* :white_check_mark: [Real Job Work From Home](https://realjobworkfromhome.com/)：远程岗位检索网站，无需注册即可免费浏览，支持关键词、岗位类别、雇佣类型及已披露薪资筛选，并提供雇主申请入口
+
 ### 2026 年 9 月 7 号添加
 
 #### aiScribeFlash（北京） - [Github](https://github.com/overseax)
@@ -6609,6 +6620,7 @@
 * [Opps Daily - 这家的 newsletter 做得好，推荐订阅](https://www.oppslist.com/)
 * [Master of Scale](https://mastersofscale.com)
 * [NomadList](https://nomadlist.com/) - 远程工作时可以用 NomadList 挑选去哪个城市
+* [Profitable Founder Podcast](https://www.profitablefounder.xyz/) - 每周采访年收入 $100K-$10M 的自举（bootstrapped）独立开发者/创始人，分享他们的增长打法
 
 ### 中文
 * [Sideidea](http://sideidea.com/) - 分享独立开发者的盈利故事

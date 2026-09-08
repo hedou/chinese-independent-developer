@@ -2,6 +2,11 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 9 月 8 号添加
+
+#### pandaupup(广州) - [Github](https://github.com/pandaupup)
+* :white_check_mark: [BTD6 Paragon Calculator](https://btd6paragoncalculator.org/)：面向《Bloons TD 6》玩家的非官方 Paragon 计算工具，可计算 Paragon Degree、Power、Cash Slider、Sacrifices 和 Paragon Power Totems，并提供 Degree 表格及相关计算说明
+
 ### 2026 年 9 月 7 号添加
 
 #### linrn5566 - [Github](https://github.com/linrn5566)
