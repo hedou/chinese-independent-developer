@@ -26,6 +26,9 @@
 ## 3. 项目列表
 ### 2026 年 9 月 9 号添加
 
+#### Felicia - [Github](https://github.com/littlePig-zzf)
+* :white_check_mark: [Pixel Art Base](https://www.pixelartbase.com)：免费的在线图片转像素画工具，支持裁剪与尺寸调整、调色板和抖动设置、颜色查看及清晰 PNG 导出；图片在浏览器本地处理，并提供 Minecraft 像素画生成器，可生成方块网格、精确材料清单、编号建造指南和 Java 蓝图
+
 #### sweesama - [Github](https://github.com/sweesama)
 * :white_check_mark: [ReadGZH](https://readgzh.site/)：微信公众号文章 AI 阅读工具，粘贴链接生成便于 AI 读取的页面，另提供 API 与 MCP 接入
 
