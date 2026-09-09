@@ -4,6 +4,9 @@
 
 ### 2026 年 9 月 9 号添加
 
+#### pandaupup(广州) - [Github](https://github.com/pandaupup)
+* :white_check_mark: [Gamepad Tester](https://gamepadtesteronline.org/)：免费的游戏手柄测试与诊断工具，可实时检测手柄按键、摇杆、扳机键和震动，并提供摇杆漂移、Circularity、Polling Rate、Latency、Button Mapping，以及 Xbox、PS5、Joy-Con、Switch Pro 等专项测试
+
 #### Felicia - [Github](https://github.com/littlePig-zzf)
 * :white_check_mark: [Block Skin Lab](https://www.blockskinlab.com/)：免费的在线图片转 Minecraft 皮肤工具，可将照片或作品转换为 64×64/128×128 皮肤，支持 Classic/Slim 手臂、2D/3D 预览、脸部预设和 8×8 像素编辑；图片全程在浏览器本地处理，无需注册
 

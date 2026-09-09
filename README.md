@@ -25,6 +25,16 @@
 ## 3. 项目列表
 ### 2026 年 9 月 9 号添加
 
+#### pandaupup(广州) - [Github](https://github.com/pandaupup)
+* :white_check_mark: [Interval Timers](https://intervaltimers.org/)：免费的间歇计时器，可设置工作时间、休息时间、准备倒计时和循环轮数，并提供声音提示，适合 HIIT、Tabata、健身训练以及其他需要工作/休息循环计时的场景
+* :white_check_mark: [Dead Pixel Test](https://deadpixeltestpro.org/)：免费的屏幕坏点测试工具，通过全屏纯色测试帮助检查显示器、笔记本电脑和其他屏幕的坏点、亮点、暗点及显示异常
+
+#### Anton Li - [Github](https://github.com/AntonLi-PM)
+* :white_check_mark: [Ropond Proxy Cloud](https://ropond.com/)：全球高纯净动态住宅代理网络，专为出海企业、跨境电商独立站与 AI 深度搜索提供防封穿透基础设施，提供 1GB 免费开发者测试配额 - [反爬与社媒过盾基准看板](https://antonli-pm.github.io/anti-bot-bypass-benchmark/)
+
+#### Ryan Yu(北京) - [Github](https://github.com/Ryan10Yu)
+* :white_check_mark: [Hevzo](https://hevzo.com)：一站式的 AI 视频和图片生成平台，集中了主流的视频和图片模型
+
 #### Felicia - [Github](https://github.com/littlePig-zzf)
 * :white_check_mark: [Pixel Art Base](https://www.pixelartbase.com)：图片转像素画工具，支持裁剪与尺寸调整、调色板和抖动设置、颜色查看及清晰 PNG 导出；图片在浏览器本地处理，并提供 Minecraft 像素画生成器，可生成方块网格、精确材料清单、编号建造指南和 Java 蓝图
 
