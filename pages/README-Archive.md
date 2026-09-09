@@ -1,12 +1,853 @@
-# 2018 年 ~ 2020 年 的项目列表
+# 2018 年 ~ 2023 年 的项目列表
 
-本文件收录 2018 年至 2020 年加入的中国独立开发者项目。
+本文件收录 2018 年至 2023 年加入的中国独立开发者项目。
 
-由于 GitHub 对 README 文件有约 512,000 字节的渲染限制，主 README.md 超出该限制后底部内容无法正常显示，因此将这三年的内容单独抽出，存放于此。
+由于 GitHub 对 README 文件有约 512,000 字节的渲染限制，主 README.md 超出该限制后底部内容无法正常显示，因此将这几年的内容单独抽出，存放于此。
 
 [← 返回主列表](../README.md)
 
 ---
+
+### 2023年12月31号添加
+---
+#### MrXujiang(重庆) - [Github](https://github.com/MrXujiang)
+* :white_check_mark: [h5-dooring](https://github.com/MrXujiang/h5-Dooring): 开箱即用的零代码搭建平台, 致力于让页面制作更简单
+
+### 2023年12月29号添加
+---
+#### GenOuka(湖南) - [Github](https://github.com/GenOuka)
+* :white_check_mark: [Rare计划](https://rare.genouka.top/)：发布了一系列使智能手表更好用、更易用、更实用的程序。例如 RareBox 可以让手表用户在手表上更便捷地安装程序。适用于普通用户和开发者，主要面向普通用户。
+
+#### ThinkStu(上海) - [Github](https://github.com/Bistutu)
+* :white_check_mark: [流畅阅读](https://github.com/Bistutu/FluentRead)：浏览器油猴插件，基于上下文语境的人工智能翻译引擎，为部分网站提供精准翻译，让所有人都能够拥有基于母语般的阅读体验。
+
+
+### 2023年12月27号添加
+---
+#### jianchang512(青岛) - [Github](https://github.com/jianchang512)
+* :white_check_mark: [人声和背景音乐分离工具](https://github.com/jianchang512/vocal-separate)：极简的人声和背景音乐分离工具，本地化网页操作，无需连接外网，使用 2stems/4stems/5stems 模型。
+
+* :white_check_mark: [CV 声音克隆工具](https://github.com/jianchang512/clone-voice)：声音克隆工具，可使用任何人类音色，将一段文字合成为使用该音色说话的声音，或者将一个声音使用该音色转换为另一个声音。
+
+
+### 2023年12月19号添加
+---
+#### 风逝
+* :white_check_mark: [Tabs Fast Easy](https://chromewebstore.google.com/detail/tabs-fast-easy/falglioamaogaliloglbhkannkjlpjil)：改变你的 Tab 页浏览方式：简化 、分组、聚焦专注和分屏管理等体验 - [更多介绍](https://www.producthunt.com/posts/tabs-fast-easy-2)
+
+
+### 2023年12月18号添加
+---
+#### webjuzi(杭州) - [博客](https://www.inav.site)
+* :white_check_mark: [变量命名](https://www.inav.site/tools/#/p/var/var)：输入中文自动翻译为各种格式的变量名,可设置一种格式自动复制到剪切板
+
+#### mengxianliang(北京) - [主页](https://mengxianliang.com)
+* :white_check_mark: [一休](https://apps.apple.com/cn/app/%E4%B8%80%E4%BC%91-%E4%BC%91%E6%81%AF%E4%B8%80%E4%BC%9A%E5%84%BF/id6467176005)：macOS 休息提醒工具
+
+#### menglike - [Github](https://github.com/menglike)
+* :white_check_mark: [免费API共享平台](https://www.liangmlk.cn)：给广大开发者提供免费 API 共享平台,目前共计 400+ 个API接口，欢迎大家使用
+
+
+### 2023年12月14号添加
+---
+#### PengChen96 - [Github](https://github.com/PengChen96)
+* :white_check_mark: [ajax-tools](https://chromewebstore.google.com/detail/ajax-interceptor-tools/kphegobalneikdjnboeiheiklpbbhncm)：修改 Ajax 请求及响应的 Chrome 扩展插件
+
+
+### 2023年12月11号添加
+---
+#### FreeMind-LJ - [Github](https://github.com/FreeMind-LJ)
+* :white_check_mark: [什么值得看](https://smzdk.top)：简洁干净的高质量全球热点资讯网站
+
+
+### 2023年12月5号添加
+---
+#### gorpeln(北京) - [Github](https://github.com/gorpeln), [博客](https://gorpeln.top/)
+* :x: [时光本](https://apps.apple.com/cn/app/%E6%97%B6%E5%85%89%E6%9C%AC-%E6%97%A5%E8%AE%B0%E6%9C%AC-%E7%AC%94%E8%AE%B0%E6%9C%AC-%E8%AE%B0%E4%BA%8B%E6%9C%AC-%E5%A4%87%E5%BF%98%E5%BD%95/id1495623965)：专注效率与安全的笔记工具
+
+### 2023年12月4号添加
+---
+#### j20cc(武汉) - [官网](https://j20.cc/)
+* :x: [云剪切板](https://cv.j20.cc)：无依赖即用即走的剪切板，支持 web 与 curl
+* :x: [Github 图床](https://pic.j20.cc)：把你的 Github 仓库变成免费图床
+
+#### CSBuyer(江西) - [官网](https://www.csbuyer.com)
+* :white_check_mark: [Steam 自动捡漏机器人](https://www.csbuyer.com)：在 Steam 市场自动购买低磨损、特殊模板 CSGO 饰品的工具 - [更多介绍](https://support.qq.com/product/611323/faqs-more/?id=147296)
+* :white_check_mark: [美国免税地址生成器](https://www.csbuyer.com/workbench/address)：自动生成美国免税地址，可用于填写 Steam 美区账号账单地址
+
+### 2023年12月1号添加
+---
+#### ThinkStu(上海) - [Github](https://github.com/Bistutu)
+* :white_check_mark: [音乐歌单迁移助手](https://music.unmeta.cn/)：迁移网易云/QQ音乐歌单到 Apple Music、Youtube Music、Spotify
+
+### 2023年11月17号添加
+---
+#### bimohxh(成都) - [Github](https://github.com/bimohxh)
+* :white_check_mark: [JSONT](https://www.jsont.run/)：简洁强大的 JSON 格式化工具 - [更多介绍](https://www.jsont.run/about)
+
+### 2023年11月14号添加
+---
+#### ysnows(北京) - [Github](https://github.com/ysnows), [Twitter](https://twitter.com/FrostyEveing)
+* :white_check_mark: [Enconvo](https://enconvo.com)：AI Launcher，Mac Copilot 客户端
+
+#### 简具科技(杭州) -  [官网](http://jianju.3ddysj.com)
+* :x: [抖音高转化精准词获取工具](http://jianju.3ddysj.com/douyinxialachi.html)：一键自动挖掘抖音下拉热词,分析计算出综合得分高的抖音高转化精准免费流量词获取工具 - [更多介绍](https://ba0k26ibyp.feishu.cn/docx/AyaqdVqk8oKSk3x9dOxc99hHnCd)
+
+### 2023年11月13号添加
+---
+#### 控Kong(广州) - [小红书](https://www.xiaohongshu.com/user/profile/5b5c7e7e4eacab25f7faa410)
+* :white_check_mark: [AI食谱](https://user-images.githubusercontent.com/17782609/282380944-121b80d7-c981-4502-b91f-aa4de163fa13.jpg)：(微信小程序) 根据体重与万能减脂/增肌公式自动生成食谱，达到效果
+
+### 2023年11月5号添加
+---
+#### yvonuk - [推特](https://x.com/mcwangcn?s=21)
+* :white_check_mark: [StockAI.Trade](https://stockai.trade/)： AI 选股分析网站（基于 ChatGPT），完全免费，无需注册 - [更多介绍](https://xueqiu.com/2012445484/263058893)
+
+### 2023年11月4号添加
+---
+#### 林建彧 - [GitHub](https://github.com/CheneyLin)
+* :x: [DevShots](https://devshots.gpwzw.com)：Online Developer Tool to Create Code Share Image - [更多介绍](https://github.com/70Apps/DevShots)
+
+#### VOME(澳大利亚)  
+* :x: [VOME](https://apps.apple.com/au/app/vome/id6468956601)：极简的语音转文字 Memo 应用 - [更多介绍](https://iduo.ai)
+
+### 2023年11月3号添加
+---
+#### 硬地骇客(杭州) - [官网](https://hardhacker.com) 
+* :white_check_mark: [Podwise](https://podwise.xyz/)：专为播客听友设计的 AI 知识管理应用
+
+#### yesmore(成都) - [Github](https://github.com/yesmore)
+* :x: [Inke笔记](https://inke.app)：集成 AI 写作/润色和多人协作的 Web 笔记本
+
+#### duyafeng
+* :white_check_mark: [Tabs Smart Grouping](https://chrome.google.com/webstore/detail/tabs-smart-grouping/ijljhpdhecidmiaimeaalnfgoogcmmme?hl=zh-CN&authuser=0)：(浏览器插件) 可以对浏览器已打开 Tab 进行自动分组
+
+### 2023年11月2号添加
+---
+#### Selenium39(广州) - [Github](http://github.com/Selenium39)
+* :x: [ChatPPT](http://chatppt.closeai.red)：用 ChatGPT-4 快速创建 PowerPoint
+
+#### marmot-z(杭州) - [GitHub](https://github.com/marmot-z)
+* :white_check_mark:  [百词斩助手](https://www.bilibili.com/video/BV1zj411Z7LM)：实时与百词斩 APP 协同操作的浏览器翻译插件
+
+#### changwu - [GitHub](https://github.com/changwu/)
+* :white_check_mark:  [虾答](https://xiada.cn)：BestGPT + 知识库 AI：只要3分钟，拥有属于自己的智能代理
+
+#### soar - [推特](https://twitter.com/codersoar)
+* :x:  [偷懒爱好者周刊](https://toolight.zhubai.love/)：分享产品、工具、新鲜事，每周三发布
+
+### 2023年11月1号添加
+---
+#### assmdx - [推特](https://x.com/assmdx)
+* :x:  [文丑](https://wenchou.top)：更好用的 AI 助手平台, [App 端](https://wenchou.top/laxin.html): 
+
+### 2023年10月31号添加
+---
+#### 菩提尘埃(厦门)
+* :white_check_mark: [AI导航](https://ai.dreamthere.cn)：搜集最新 AI 站点，推荐优质 AI 网站，推广优质人工智能各类网站 - [更多介绍](https://nav.dreamthere.cn/about)
+
+#### beijing(北京) - [Github](https://github.com/Gavin888888)
+* :white_check_mark: [表情小程序-前后台源码](https://ext.dcloud.net.cn/plugin?id=14972)：斗图表情小程序前后台都有 (开源免费) 后台管理系统可批量管理前端小程序形成矩阵
+
+
+### 2023年10月21号添加
+---
+#### ohttps
+* :white_check_mark: [OHTTPS](https://ohttps.com/)：免费申请 HTTPS 通配符证书，提供证书自动化更新、自动化部署、自动化监控服务，支持自动化部署证书至阿里云、腾讯云、七牛云等云厂商的 CDN、SLB 等，以及部署至 Docker 容器、SSH、API 接口、宝塔面板等，一站式解决网站证书问题
+
+### 2023年10月16号添加
+---
+#### Jessen Wang(上海) - [博客](https://www.jessenbox.com/)
+* :white_check_mark: [极简换算](https://apps.apple.com/cn/app/id6448924181)：高效简洁的单位换算和效率计算器, iOS App  - [更多介绍](https://www.jessenbox.com/index.php/2023/06/07/%e5%a4%9a%e5%85%83%e5%b7%a5%e5%85%b7%e7%ae%b1/)
+
+### 2023年10月12号添加
+---
+#### hefengbao(成都) - [Github](https://github.com/hefengbao), [8ug.icu](https://www.8ug.icu)
+* :white_check_mark: [京墨](https://github.com/hefengbao/jingmo/releases)：古诗词文（名句）、歇后语、成语阅读 Android APP (开源免费) - [更多介绍](https://github.com/hefengbao/jingmo)
+
+### 2023年10月11号添加
+---
+#### codelover - [Github](https://github.com/lovercode)
+* :white_check_mark: [MyServers](https://myservers.plus/)：iOS 原生服务器运维 App，可集中监控多台服务器，远程管理 Docker、终端与文件、下载器、Proxmox VE 和 FRP 等服务；内置插件市场，并支持借助 Agent Skill 开发自定义插件，把更多服务接入 Dashboard 和原生交互界面
+
+#### sx1989827 - [Github](https://github.com/sx1989827)
+* :x: [Teamlinker](https://team-linker.com/): 团队协作平台。可以联系成员，分配任务，开始会议，安排各项事务，管理文件等。
+
+### 2023年10月7号添加
+---
+#### 未道科技(杭州) - [官网](https://helper.aiwave.cc)
+* :x: [未道帮](https://helper.aiwave.cc/)：AI 能力聚合站，支持微软 GPT4、Llama2 等大模型 AI 对话，支持 Stable Diffusion XL 绘画，支持图片压缩、图片元素消除等图像处理
+* :x: [AIGC工具导航](https://nav.aiwave.cc/)：海量 AI 工具，总有一款是你需要的
+* :x: [AI抠图](https://cutout.aiwave.cc/)：只需上传图片，无需其他操作即可自动去除图片背景
+
+### 2023年10月1号添加
+---
+#### marticztn / FuzzyEra Softworks LLC (浙江金华)
+* :white_check_mark: [简约木鱼 (iOS)](https://apps.apple.com/cn/app/id6445845846)：最简单好用不卡顿的敲木鱼 App
+* :white_check_mark: [简约木鱼 (Android - Google Play)](https://play.google.com/store/apps/details?id=com.marticztn.woodenfish)：最简单好用不卡顿的敲木鱼 App
+
+### 2023年9月29号添加
+---
+#### 简具科技(杭州) -  [官网](http://jianju.3ddysj.com/)
+* :x: [简具 QQ 空间相册导出工具](http://jianju.3ddysj.com/qqkongjian.html)：一键自动下载导出QQ空间相册所有图片
+
+### 2023年9月25号添加
+---
+#### xerduo(重庆)
+* :x: [iChat](https://ichatt.cn)：智能AI助手，支持 ChatGPT 3.5、4.0、文心一言，内置90+行业AI角色，多国语言朗读，有网页版，App、Windows应用 - [更多介绍](https://ichatt.cn)
+
+### 2023年9月18号添加
+---
+#### 风逝 
+* :white_check_mark: [Tabs-Fast-Easy](https://chrome.google.com/webstore/detail/tabs-fast-easy/falglioamaogaliloglbhkannkjlpjil)：更轻松 快捷管理标签页，及快速释放内存 - [更多介绍](https://meta.appinn.net/t/topic/46029)
+
+### 2023年9月11号添加
+---
+#### Lost(深圳) - [Github](https://github.com/wangpinggang)
+* :white_check_mark: [MyNotes Keeper](https://www.mynoteskeeper.com)：Windows 平台原生大纲笔记软件，强大流畅，提供免费版本 - [更多介绍](https://www.mynoteskeeper.com/features.html)
+
+### 2023年9月5号添加
+---
+#### Leon(武汉) - [博客](https://cl8023.com)
+* :x: [情侣100件事](https://apps.apple.com/app/%E6%83%85%E4%BE%A3100%E4%BB%B6%E4%BA%8B/id6461458836)：不止 100 件浪漫小事，爱情旅程的完美伴侣 - [更多介绍](https://cl8023.com/detailed?id=ycbqfOCLU)
+
+### 2023年9月3号添加
+---
+#### 陈建利 - [博客](https://jianlichen.blog/)
+* :white_check_mark: [DeskWidgets](https://apps.apple.com/us/app/deskwidgets/id6446226257?mt=12)：macOS 桌面组件库
+* :white_check_mark: [Twitter Classic Logo](https://chrome.google.com/webstore/detail/twitter-classic-logo/ldimicjoagopeeflheigbfaoopenobbn)：恢复 Twitter 原来蓝鸟 Logo
+
+### 2023年8月18号添加
+---
+#### 极客学伟(北京) - [Github](https://github.com/qxuewei/), [博客](https://qiuxuewei.com/) ,[Twitter](https://twitter.com/qxuewei/)
+*  :white_check_mark: [AI画图王](https://apps.apple.com/app/id6505048186)：AI文本生成图片，AI绘图插画风格，智能AI图画生成 (iOS/iPad/Mac)
+*  :white_check_mark: [Nap - Break Reminder](https://apps.apple.com/app/id6471501135)：定时提醒,番茄钟,提升工作效率,喝水提醒,避免久坐 (Mac)
+*  :white_check_mark: [Island Widgets - 灵动岛&锁屏小组件](https://apps.apple.com/app/id6464542768)：灵动岛/锁屏小组件，下班倒计时、手机拿起次数、步数、心率、热搜、待办、天气、抢票倒计时等 (iOS)
+*  :white_check_mark: [加一 - 自律打卡](https://apps.apple.com/app/id1477743089)：习惯养成打卡，追踪生活小事，记录日常情绪，计数、统计 (iOS)
+*  :white_check_mark: [学伟扫描 - OCR&PDF扫描打印](https://apps.apple.com/app/id1468603429)：OCR、识别图片文字、翻译、图片转PDF、打印、相册资料整理 (iOS)
+
+### 2023年8月17号添加
+---
+#### 一刀(杭州) - [Github](https://github.com/laosanyuan)
+*  :white_check_mark: [Hamibot遥控器](https://github.com/laosanyuan/HamibotRemoteControl)：手机自动化工具 Hamibot 的三方工具 APP，可编译 iOS 和 Andriod 包。支持远程操控脚本，弥补官方控制端的不足
+*  :white_check_mark: [火浣](https://github.com/laosanyuan/HuoHuan)：微信群爬虫 Windows 客户端工具，用于获取网络中他人公开并且有效的微信群聊二维码图片。提供安装包
+
+### 2023年8月15号添加
+---
+#### JustAIGithub(北京) - [Github](https://github.com/JustAIGithub/AI-Code-Convert)
+* :white_check_mark: [AICodeConvert](https://aicodeconvert.com/)：将自然语言转代码,将一种代码语言转另一种代码语言实现 - [更多介绍](https://blog.aicodeconvert.com/)
+
+#### limaoyi1(长沙) - [Github](https://github.com/limaoyi1), [博客](http://www.limaoyi.top/)
+* :x: [Genshin-GPT](http://www.limaoyi.top:4400/)：基于 LangChain 和向量知识库模仿原神角色的对话 GPT,让三次元的人可以和游戏中的角色自由的对话 - [更多介绍](https://github.com/limaoyi1/Genshin-GPT)
+
+### 2023年8月4号添加
+---
+#### 叫我强哥(杭州) - [Github](https://github.com/zhangya4548), [博客](http://jianju.3ddysj.com)
+* :white_check_mark: [不懂药问](https://www.v2ex.com/t/962506)：查询医保用药的微信小程序
+
+### 2023年8月1号添加
+---
+#### Dreamer365 - [Github](https://github.com/Dreamer365/topspeed-image-compressor), [Gitee](https://gitee.com/dreamer365/topspeed-image-compressor)
+* :white_check_mark: [极速图片压缩器](https://github.com/Dreamer365/topspeed-image-compressor)：速度极快的图片压缩软件
+
+### 2023年7月29号添加
+---
+#### booboosui(北京) - [Github](https://github.com/kuafuai/DevOpsGPT/blob/master/docs/README_CN.md)
+* :x: [DevOpsGPT](http://www.kuafuai.net/devopsgpt)：面向任何人，AI 将需求转化为可工作软件 - [更多介绍](https://github.com/kuafuai/DevOpsGPT/blob/master/docs/README_CN.md)
+
+#### Thawne - [Github](https://github.com/aiguoli)
+* 🕗 [SimpleList](https://github.com/aiguoli/SimpleList)：管理 OneDrive 文件 (基于 WinUI3 开发的桌面端 App)
+
+### 2023年7月26号添加
+---
+#### discountry - [Github](https://github.com/discountry), [博客](https://yubolun.com/)
+* :white_check_mark: [SigniFi](https://www.signifi.life/)：AI 塔罗牌占卜，DApp
+
+#### heygsc - [Github](https://github.com/heygsc)
+* :white_check_mark: [单词之风](https://word-wind.pages.dev/)：简洁的背单词页面，词库丰富，有标记列表等功能
+
+### 2023年7月23号添加
+---
+#### 五块一 - [Github](https://github.com/WuKaiYi/AI_painter), [Bilibili](https://space.bilibili.com/3430120)
+* :white_check_mark: [机画师](https://apps.apple.com/us/app/id1644645946)：基于 Stable Diffusion 的 AI 绘图 App
+
+#### hoochanlon - [Github](https://github.com/hoochanlon), [博客](https://hoochanlon.github.io)
+* :white_check_mark: [Nigate](https://github.com/hoochanlon/Free-NTFS-For-Mac)：支持苹果芯片的 Free NTFS for Mac 小工具软件
+
+#### Sunrisepeak - [Github](https://github.com/Sunrisepeak), [Bilibili](https://space.bilibili.com/65858958), [知乎](https://www.zhihu.com/people/SPeakShen)
+* :white_check_mark: [KHistory](https://github.com/Sunrisepeak/KHistory)：优雅&跨平台的 键盘/🎮手柄按键 检测及历史记录显示工具, 无需安装单可执行文件 (约900kb大小) 即点即用
+
+
+### 2023年7月22号添加
+---
+#### Tw93 - [Github](https://github.com/tw93), [Twitter](https://twitter.com/HiTw93), [博客](https://tw93.fun)
+* :white_check_mark: [妙言](https://github.com/tw93/MiaoYan)：轻灵的 Markdown 笔记本伴你写出妙言
+
+### 2023年7月21号添加
+---
+
+### 2023年7月17号添加
+---
+#### 张土福(上海) - [Github](https://github.com/tufook), [博客](https://tufook.com/)
+* :white_check_mark: [Foresee](https://apps.apple.com/cn/app/foresee-predictions-tracker/id6447700092)：iOS App，跟踪你的预测以提升你的判断力
+
+### 2023年7月12号添加
+---
+#### GGBond - [个人网站](https://boxopened.github.io/)
+* :white_check_mark: [雨巷](https://apps.apple.com/us/app/%E9%9B%A8%E5%B7%B7/id1619940076)：为程序员打造的专属白噪音工具，精选钢琴曲混合自然音帮助保持专注，提高效率
+* :white_check_mark: [文曲星记单词](https://apps.apple.com/us/app/%E6%96%87%E6%9B%B2%E6%98%9F%E8%AE%B0%E5%8D%95%E8%AF%8D/id1618265393)：灵感来源于古老的文曲星电子辞典，经典复古的单词记忆软件
+* :x: [预算笔记](https://apps.apple.com/us/app/budget-note/id1623043447)：有预算功能的记事簿，免注册，数据本地存储，同时支持 Web 多端访问
+
+### 2023年7月5号添加
+---
+#### Patrick - [个人网站](http://patzhong.com)
+* :white_check_mark: [MoodUp](https://apps.apple.com/us/app/moodup-breeze-mental-health/id6450100126)：帮助你记录心情和管理情绪的日记APP
+
+#### River(深圳) - [Github](https://github.com/hepengwei/visualization-collection)
+* :white_check_mark: [visualization-collection](http://hepengwei.cn)：专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、人工智能应用等上百个案例
+
+### 2023年6月29号添加
+---
+#### Airsaid（武汉） - [个人网站](http://airsaid.com/)
+* :white_check_mark: [ChatBoost](https://play.google.com/store/apps/details?id=studio.muggle.chatboost)：原生 Android ChatGPT 客户端
+
+### 2023年6月19号添加
+---
+#### 甘小蔗（重庆） - [个人网站](https://gxzv.com/?chinese-independent-developer)
+* :white_check_mark: [GPEG 九型人格测试系统](https://gxzv.com/know-yourself/enneagram/)：九型人格专业测试与分析 - [更多介绍](https://gxzv.com/know-yourself/enneagram/all-types/)
+* :x: [ChiauFarm](https://www.chiau.net/farm/)：Chia Token 跨平台可视化多功能自动耕种客户端
+* :x: [MetorChat](https://chat.metauit.com/)：对话基于 NLP 和 ML 的大型语言模型
+* :clock8: [工业上位机](https://gxzv.com/blog/review-2022-12/#%E5%A4%A7%E5%89%8D%E7%AB%AF)：一些基于大前端开发的上位机应用
+* :x: [MCAdmin](https://www.mcadmin.cn/)：面向 Minecraft 内容提供者的垂直社区
+
+### 2023年6月8号添加
+---
+#### Jinke Du（上海）- [个人网站](https://kinnoukabokudo.com/)
+* :white_check_mark: [行动日](https://apps.apple.com/app/id6444159859)：待办/不办清单应用。
+* :white_check_mark: [好天气](https://apps.apple.com/app/id1658473170)：查看现在、未来与过去的天气。
+* :white_check_mark: [生或死](https://apps.apple.com/app/id1498862402)：康威生命游戏（Conway’s Game of Life）。
+* :white_check_mark: [白边框](https://apps.apple.com/app/id1659350166)：为照片添加边框。
+* :white_check_mark: [计数器](https://apps.apple.com/app/id1533504378)：记录一切计数。
+* :white_check_mark: [卅六问](https://apps.apple.com/app/id1541439969)：让陌生人迅速相爱的 36 个问题。
+* :white_check_mark: [伊摩基](https://apps.apple.com/app/id1619616706)：用 Emoji 记录生活日记。
+* :white_check_mark: [相机印](https://apps.apple.com/app/id6447237830)：为照片添加参数水印边框。
+
+### 2023年6月4号添加
+---
+#### Grant 
+* :white_check_mark: [软猫下载](https://softmall.net/)：无插件软件/APP下载中心
+
+### 2023年5月28号添加
+---
+#### Abenx
+* :white_check_mark: [开心果节拍器](https://apps.apple.com/cn/app/id1538268059)： 首款支持Apple Watch的节拍器。学琴，跑步配速的好帮手。
+* :white_check_mark: [好色相机](https://apps.apple.com/cn/app/id1151401197)： 从照片中提取关键色彩值，为你的设计提供色彩灵感。
+* :white_check_mark: [IconShop](https://apps.apple.com/cn/app/id6443592678)：快速生成Xcode直接可以使用的icon格式，支持云存储。
+
+### 2023年5月27号添加
+---
+#### Sunner(北京) - [Github](https://github.com/sunner)
+* :white_check_mark: [ChatALL](http://chatall.ai)：同时和 10+ 个大模型（ChatGPT、Bing Chat、文心一言、讯飞星火等）对话，找到最佳回答
+
+
+### 2023年5月24号添加
+---
+#### 糖伴西红柿
+* :white_check_mark: [海报图生成 - Foolstack](https://foolstack.net)： 使用 API 将网页/HTML 渲染成高质量图片
+
+### 2023年5月18号添加
+---
+#### IndieKKY(浙江) - [Github](https://github.com/IndieKKY)
+* :white_check_mark: [哔哩哔哩字幕列表](https://github.com/IndieKKY/bilibili-subtitle)：字幕显示,下载,总结,翻译
+
+### 2023年5月13号添加
+---
+#### 飞刀(北京)
+* :white_check_mark: [五彩插件](https://www.dotalk.cn/product/wucai): 网页划线高亮批注笔记工具，支持同步到 Obsidian - [更多介绍](https://www.yuque.com/makediff/wucai)
+
+### 2023年5月9号添加
+---
+#### mattewwung(大连)
+* :white_check_mark: [口袋四级](https://apps.apple.com/cn/app/id1673721668)：四级必背高频单词 - [更多介绍](https://apps.apple.com/cn/app/id1673721668)
+
+### 2023年5月8号添加
+---
+### aizuzi - [Github](https://github.com/aizuzi) 
+* :white_check_mark: [减肥小助手](https://apps.apple.com/cn/app/id1583776291)：减肥期间的小工具，帮助记录体重和卡路里 - [更多介绍](https://ohee.cn/static/download/index.html)
+
+### 2023年4月30号添加
+---
+#### cxxsucks(徐州)
+* :x: [SearchEverywhere](https://github.com/cxxsucks/SearchEverywhere/releases/tag/v0.3.1)：Linux, macOS 与 Windows 上的文件检索工具，含有`find`以及`Everything`的各种功能，外加内容查找、上下层目录查找等 - [更多介绍](https://github.com/cxxsucks/SearchEverywhere)
+
+### 2023年4月24号添加
+---
+#### weekend-project-space - [Github](https://github.com/undb-xyz/undb)
+* :x: [aihub](https://aihub.bitmagic.space/)：收集 AI 相关应用和提示与源码
+
+### 2023年4月14号添加
+---
+#### nichenqin(上海) - [Github](https://github.com/undb-xyz/undb)
+* :x: [undb](https://www.undb.xyz/)：轻量自部署的无代码软件
+
+### 2023年4月13号添加
+---
+#### HyJames(广州)
+* :x: [学习杂货铺](https://xuexizahuopu.fun/)：集成待办、进度、倒数日、社区等功能网站（有小程序版）
+
+### 2023年4月12号添加
+---
+
+#### Gomi(成都) - [GitHub](https://github.com/gxy5202) [主页](https://gomi.site)
+* :white_check_mark: [Video Roll](https://github.com/VideoRoll/VideoRoll): 帮助你旋转、缩放、移动、调整比例、镜像翻转、调节音调、专注和滤镜任意网页中 HTML5 视频的浏览器插件（Chrome/Edge/Firefox）- [更多介绍](https://github.com/VideoRoll/VideoRoll/blob/main/README-zh_CN.md)
+
+### 2023年4月4号添加
+---
+#### 静彦齐(吉林)
+* :white_check_mark: [WriteDeck](https://apps.apple.com/cn/app/writedeck/id6446620450)：写作训练 App，利用随机生成的提示词卡片进行故事创作。
+
+### 2023年3月30号添加
+---
+#### weijarz(杭州) - [主页](https://www.oxyry.com/)
+* :white_check_mark: [QiReader](https://www.qireader.com)：全平台网页 RSS 阅读器，同时支持推送文章到 Kindle。
+
+### 2023年3月8号添加
+---
+#### moonrailgun(上海) - [Github](https://github.com/moonrailgun), [博客](http://moonrailgun.com/)
+* :white_check_mark: [Tailchat](https://github.com/msgbyte/tailchat)：您自己工作区中的下一代 noIM 应用程序 - [更多介绍](https://tailchat.msgbyte.com/)
+
+### 2023年3月4号添加
+---
+#### Kuingsmile(杭州) - [Github](https://github.com/Kuingsmile), [博客](https://www.horosama.com)
+* :white_check_mark: [PicList](https://github.com/Kuingsmile/PicList)：云存储/图床管理和图片上传工具，基于 PicGo 项目的深度二次开发 - [更多介绍](https://piclist.cn)
+
+### 2023年2月24号添加
+---
+#### Lessimore - [官网](https://supercoder.lessimore.cn/)
+* :white_check_mark: [Super Coder](https://apps.apple.com/cn/app/super-coder-%E5%89%AA%E5%88%87%E6%9D%BF-%E6%9C%AC%E5%9C%B0%E5%8C%96-%E4%BB%A3%E7%A0%81%E7%94%9F%E6%88%90%E6%A0%B7%E6%A0%B7%E9%83%BD%E8%A1%8C/id1663425686?mt=12)：剪切板管理、Swift 代码生成、Xcode 本地化样样都行 - [更多介绍](https://supercoder.lessimore.cn/)
+
+### 2023年2月22号添加
+---
+#### Sven（昆明）- [Github](https://github.com/shensven)
+* :white_check_mark: [Morphling](https://github.com/shensven/Morphling): 将 Hex、RGB 或者 HSL 色值转换为 CSS filter 属性的 macOS 桌面工具。
+
+### 2023年2月19号添加
+---
+#### tangshimin（深圳）- [Github](https://github.com/tangshimin)
+* :white_check_mark: [幕境](https://github.com/tangshimin/MuJing): 沉浸式学英语,使用自己感兴趣的电影、美剧或文档，生成词库（单词本）。在记忆单词时，可以练习拼写并观看相关的视频片段，以便更好的理解和记忆单词。播放电影时，以弹幕的形式复习词库中的单词，使得单词记忆不再是一件乏味的事。 
+
+
+### 2023年2月18号添加
+---
+#### Darkce(北京) - [Github](https://github.com/luoxuhai)
+* :white_check_mark: [夜视仪 App](https://github.com/luoxuhai/NightVision)：可在完全无光环境下扫描和检测距离的 iOS App (开源)，使用了 iPhone 和 iPad 后置的激光雷达扫描仪。
+
+### 2023年2月11号添加
+
+---
+
+#### createitv(武汉) - [博客](https://www.panghuang.tech)
+
+* :white_check_mark: [每日工具箱随身助手](https://typora-1300715298.cos.ap-shanghai.myqcloud.com//blog扫码_搜索联合传播样式-标准色版.png)：集成去水印、电子木鱼、房贷计算、小孩取名、壁纸下载等多种功能的小程序
+
+
+### 2023年2月8号添加
+---
+#### miniits(厦门) - [Github](https://github.com/hy4101)
+* :white_check_mark: [BdTab新标签页扩展](http://www.bdtab.cn)：浏览器扩展程序，高度自定义，组件化，跨平台等功能的工具
+
+### 2023年1月27号添加
+---
+#### syt - [Github](https://github.com/syt2)
+* :white_check_mark: [Tracepad](https://apps.apple.com/app/id1658454999)：将 iPhone/iPad 变为控制 Mac 的 Trackpad，支持 Trackpad 的绝大部分手势 - [更多介绍](https://www.tracepad.site/tracepad/)
+
+### 2023年1月25号添加
+---
+#### MrZenW - [Github](https://github.com/MrZenW)
+* :white_check_mark: [G-侠客 | BPC.js](https://g-xiake.com)：可以生成能够给电波表对时的电磁波的 JS 库，并且用此搭建了一个免费帮大家对时的网站，它可以帮助拥有电波表（如卡西欧）的朋友在没有电波的地方对时 - [更多介绍](https://github.com/MrZenW/BPC.js)
+
+#### lencx - [Github](https://github.com/lencx)
+* :white_check_mark: [ChatGPT](https://github.com/lencx/ChatGPT)：ChatGPT 跨平台桌面应用，支持 Mac、Windows 和 Linux。主要功能有斜杠指令，系统托盘，快捷键，系统菜单，聊天记录导出（PNG，PDF，Markdown），加载任意网站 URL 作为应用程序窗口（URL 桌面化，可以借助系统 API 做更多有趣的事情）- [更多介绍](https://github.com/lencx/ChatGPT/blob/main/README.md)
+
+### 2023年1月24号添加
+---
+#### shartoo - [Github](https://github.com/shartoo)
+* :white_check_mark: [webhub123](https://www.webhub123.com/#/home/more)：管理和分享优质网站收藏的网站，不仅限于博客，希望包含全网各个领域 - [更多介绍](https://github.com/1c7/chinese-independent-developer/issues/160#issuecomment-1400422591)
+
+### 2023年1月22号添加
+---
+#### Sworld(温州) - [Github](https://github.com/mcthesw), [博客](http://blog.sworld.club/)
+* :white_check_mark: [游戏存档管理器](https://github.com/mcthesw/game-save-manager)：简单、美观的游戏存档管理软件 - [更多介绍](https://www.bilibili.com/read/cv15774558)
+
+### 2023年1月14号添加
+---
+#### GeorgeZou - [Github](https://github.com/georgezouq)
+* :white_check_mark: [星搭 MtBird](https://github.com/staringos/mtbird) - 💻 小程序、H5 网站 无/低代码平台，无需代码，拖拽操作快速生成页面应用，数据可视化接入，定制业务自由拓展.
+
+
+### 2023年1月13号添加
+---
+#### B3log(云南) - [Github](https://github.com/siyuan-note)
+* :white_check_mark: [SiYuan](https://b3log.org/siyuan)：思源笔记是本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得 - [更多介绍](https://b3log.org/siyuan)
+
+#### 程序猿韩三皮(北京) - [Github](https://github.com/hzr1140521792)
+* :x: [make-money](https://make-money.hanzhengrong.cn)：好用的 PC 端理财工具系统（基金） - [更多介绍](https://github.com/hzr1140521792/make-money-fund)
+
+#### dsy4567 - [Github](https://github.com/dsy4567)
+* :white_check_mark: [防沉迷终结者](https://fcmsb250.github.io/) - 干掉防沉迷, 帮助您实现游戏自由的浏览器扩展
+
+#### meetqy(成都) - [Github](https://github.com/meetqy/eagleuse)
+* :white_check_mark: [eagleuse](https://rao.pics) - 把 Eagle App (管理 UI 素材/图片的桌面应用) 打造成本地后台管理系统，快速构建 WEB 图片站。
+
+### 2023年1月12号添加
+---
+#### weekendproject - [Github](https://github.com/weekend-project-space), [博客](http://weekendproject.space/)
+* :white_check_mark: [webfollow](https://webfollow.cc/)：RSS 阅读器，md 风格，支持个人自定义内容顺序，pwa 可直接添加到桌面，响应式，多端运行
+
+#### moonrailgun(上海) - [Github](https://github.com/moonrailgun), [博客](http://moonrailgun.com/)
+* :white_check_mark: [codeck](https://codeck.moonrailgun.com/): 基于 JS 的可视化蓝图编程引擎，让不懂得编程的用户也能通过可视化的方式进行编程，只要掌握最基本的逻辑即可。同时支持插件形式编写适用于不同场景的代码块，产品灵感来自于`unreal`的蓝图编程引擎与`google`的`blockly`。
+
+### 2023年1月9号添加
+---
+#### shenpvip - [Github](https://github.com/shenpvip)
+* :white_check_mark: [羽毛球助手](https://s3.bmp.ovh/imgs/2023/01/09/0ba2aa198f7e8a33.jpg)：一键参与、发起羽毛球活动 - [更多介绍](https://github.com/shenpvip)
+
+#### Jokerlsss(福州) - [Github](https://github.com/fjykTec/ModernWMS)
+* :white_check_mark: [ModernWMS](https://wmsonline.ikeyly.com/#/login)：精简而充满现代化的 **仓库管理系统**，支持快速收发货、库存、仓内作业等功能。开箱即用、完全开源、十分钟即可上手！（标题链接可直达体验环境）
+
+#### yiuman(广州) - [Github](https://github.com/Yiuman),
+* :x: [docod](http://42.192.95.146:3000)：智能文档比对-支持 Word、PDF 交叉比对、双屏展示、效果一目了然
+一键导出差异报告、word 修订文档
+
+### 2023年1月8号添加
+---
+#### Arxiv Search - [Github](https://github.com/goodnlp)
+* :white_check_mark: [Arxiv Search](https://www.arxiv.dev)： 追踪各个领域最新 Arxiv 论文的搜索引擎和浏览网站。目前包含两大功能：(1) 一个网站, 包含各个领域最新文章的检索，和任意时间段的研究趋势的分析；包含搜索功能，分领域的论文浏览功能，还有更多数据分析的功能正在开发中。(2) 基于微信搜索获取最新 arxiv 论文推送 - [更多介绍](https://github.com/goodnlp/all-you-need-is-arxiv-search)
+
+### 2023年1月7号添加
+---
+#### 游雨的鱼cc(杭州) - [博客](https://vipvan.cc/archives/%E8%87%AA%E5%8A%A8%E5%8C%96%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6#toc-head-0)
+* :x: [Workflow](https://vipvan.cc/upload/Workflow.zip)：实现自动化 Excel 操作的中文框架 - [更多介绍](https://space.bilibili.com/14481495/)
+
+### 2023年1月3号添加
+---
+#### zcf0508(上海) - [Github](https://github.com/zcf0508), [博客](https://huali.cafe/)
+* :white_check_mark: [AutoCut Client](https://github.com/zcf0508/autocut-client)：为 [AutoCut](https://github.com/mli/autocut) 提供一个开箱即用的客户端 - [更多介绍](https://github.com/zcf0508/autocut-client/blob/master/README_zh.md)
+
+### 2023年1月1号添加
+---
+#### FanChenIO(北京)
+* :white_check_mark: [Dawn Launcher](https://dawnlauncher.com/)：Dawn Launcher Windows 快捷启动工具，解决桌面杂乱无章的问题，让您的桌面干净整洁。
+
+### 2022年12月30号添加
+---
+#### Loui(长沙)
+* :white_check_mark: [PPT批量处理百宝箱](http://www.batchtoolset.com/)：高效强悍的PPT文件批量处理工具，致力于为使用者提供可靠、安全、高效、简洁、省时省力的 PPT 文件批量处理解决方案
+
+### 2022年12月13号添加
+---
+#### xiaoluoboding(大理) - [Github](https://github.com/xiaoluoboding)
+* :x: [One Tab Group](https://onetab.group)：集多功能于一身的代替 `OneTab`/`Session Buddy` 的下一代标签页/标签组管理器, 帮助你有效地管理、组织您的浏览器标签页，支持云同步以及同步到 Notion 等功能。
+
+### 2022年12月12号添加
+---
+#### Mekal(Wuhan) - [Github](https://github.com/mekalz)
+* :white_check_mark: [iOS App：怪兽音符 - 五线谱识谱练习卡](https://apps.apple.com/cn/app/%E6%80%AA%E5%85%BD%E9%9F%B3%E7%AC%A6-%E4%BA%94%E7%BA%BF%E8%B0%B1%E8%AF%86%E8%B0%B1%E7%BB%83%E4%B9%A0%E5%8D%A1/id1641497474)：可以连接电钢琴的五线谱识谱训练工具，适用于钢琴初学者训练五线谱的读谱反应速度
+* :white_check_mark: [iOS App：可沐心语 - 通过 Emoji 随时记录心情，阅读精美治愈与激励好句子](https://apps.apple.com/cn/app/%E5%8F%AF%E6%B2%90%E5%BF%83%E6%83%85%E8%AF%AD%E5%BD%95/id6444787701)：每日语录与心情记录小工具。
+精美的图片配合绝伦的语录，能够不经意间治愈你内心的创伤，亦或为你注入能量；
+你还可以使用一个 eMoji 表情来代表并记录你此刻的心情，之后更是可以根据心情指数曲线来跟踪回顾自己一段时间以来的心情变化情况，不断调整自己的情绪，让自己每天都能够轻松摆脱负面情绪，让自己每天都可以能量满满的生活和工作。
+
+### 2022年12月8号添加
+---
+#### onlymash - [GitHub](https://github.com/onlymash)
+* :x: [materixiv](https://play.google.com/store/apps/details?id=onlymash.materixiv)：Pixiv app - [更多介绍](https://github.com/onlymash/materixiv)
+
+### 2022年12月5号添加
+---
+#### ch3ng(成都) - [官网](https://www.ohmymd.app)
+* :x: [Oh Mymd](https://www.ohmymd.app)：支持本地与云同步的 Markdown 编辑器.
+
+### 2022年12月3号添加
+---
+#### kongkongye(台州) - [Github](https://github.com/kongkongye)
+* :x: [sssbar](https://bar.ssstab.com)：浏览器快捷搜索框扩展,在线工具网页搜索.
+
+### 2022年12月2号添加
+---
+#### Vio(深圳) - [Github](https://github.com/vioao),[博客](https://blog.vioao.site/)
+* :x: [智能水印工具箱](https://github.com/vioao)：图片/短视频处理的 AI 小程序。能够一键去水印、画质增强、背景移除、图集提取。
+* :x: [临时邮箱小助手](https://github.com/vioao)：提供临时、安全、匿名、免费的一次性电子邮箱的小程序。支持自定义邮箱地址和附件下载。
+
+### 2022年11月30号添加
+---
+#### Patrick(佛山) - [Github](https://github.com/yuandongzhong), [博客](https://patzhong.com/),  [Twitter](https://twitter.com/pat_zhong),
+* :x: [UnderThink](https://underthink.cc/)：危险的头脑风暴工具 - [更多介绍](https://www.v2ex.com/t/899011)
+
+### 2022年11月16号添加
+---
+#### kongkongye(台州) - [Github](https://github.com/kongkongye)
+* :x: [ssstab](https://ssstab.com)：ssstab新标签页,你的网络书签管理工具.
+
+### 2022年11月12号添加
+---
+#### Kuingsmile(杭州) - [Github](https://github.com/Kuingsmile), [博客](https://www.horosama.com)
+* :clock8: [PicHoro](https://github.com/Kuingsmile/PicHoro)：用于上传图片和管理云存储/图床平台的安卓 APP，与电脑端的 PicGo 配置互通，正在准备上架 - [更多介绍](https://pichoro.horosama.com)
+
+### 2022年11月8号添加
+---
+#### Zeffon(广州) - [Github](https://github.com/zeffon/english)
+* :white_check_mark: [IEnglish](https://english.zeffon.cn/)：英语口语练习网站，包括音标、语音标记、语音技巧等。
+
+### 2022年10月28号添加
+---
+#### huangjx(广州) - [Github](https://github.com/zhandouxiaojiji), [博客](https://blog.coding1024.com/)
+* :x: [Tesla Light Show Creator](https://tesla.coding1024.com/)：特斯拉灯光秀制作工具，导入背景音乐一键生成炫酷的自定义灯光秀。
+
+#### Likun(杭州) - [Github](https://github.com/Likunone), [博客](https://onelk.cn)
+* :white_check_mark: [爱吖去水印](https://user-images.githubusercontent.com/15193414/198528969-868cd864-f462-46e8-91ef-e90fd8201bbb.png)：免费去水印、抖音去水印、快手去水印，一键保存无水印视频到相册。
+
+### 2022年10月25号添加
+---
+#### 染河(杭州) - [Github](https://github.com/hewenguang)
+* :white_check_mark: [Circle 阅读助手](http://circlereader.com/)：提供沉浸式阅读的扩展，拥有强大智能的识别和排版能力，让你爱上在网页上阅读
+
+### 2022年10月12号添加
+---
+#### ExistOrlive - [Github](https://github.com/ExistOrLive), [博客](https://gitbook.existorlive.cn/)
+* :white_check_mark: [ZLGithubClient](https://apps.apple.com/app/gorillas/id1498787032)：基于 Github 官方 API 开发的 Github iOS 客户端 - [更多介绍](https://github.com/ExistOrLive/GithubClient)
+
+### 2022年10月11号添加
+---
+#### Evancohe(惠州) - [Github](https://github.com/evancohe), [Twitter](https://twitter.com/evancohe)
+* :white_check_mark: [Kake日记](https://apps.apple.com/us/app/kake-journal-password-diary/id1515415906)：极简风格的日记 App, 多设备适配, 曾上 Apple 推荐。
+* :white_check_mark: [Je Focus](https://apps.apple.com/sg/app/je-focus/id1486865992)：极简风格的专注 App, 用重力感应检测用户拿手机并暴力提醒.
+
+### 2022年8月24号添加
+---
+#### Denny Wang(合肥) - [GitHub](https://github.com/eggsblue),[Twitter](https://twitter.com/DennyWang99)
+* :white_check_mark: [Wins](https://wins.cool) - 为 Mac 带来系统级的分屏功能，主打悬浮分屏、系统级集成、流畅动画、低功耗等特点。
+
+
+### 2022年7月28号添加
+---
+#### yellownight - [博客](https://www.caiqilian.top)
+* :white_check_mark: [智能翻译器](https://github.com/yellownight) - 微信翻译小程序，提供多语言文本翻译，图片翻译，语音翻译。支持英语、日语、韩语、俄语、德语、法语、泰语、葡萄牙语、西班牙语、阿拉伯语等。
+
+### 2022年7月26号添加
+---
+#### mark420524 - [GitHub](https://github.com/mark420524)
+* :white_check_mark: [早晚答小程序](https://github.com/mark420524) - 小程序进行答题，增加了汉字查询、成语查询、英汉词典等功能
+
+### 2022年7月14号添加
+---
+#### sorakylin(广州) - [Github](https://github.com/sorakylin), [博客](https://www.skypyb.com/2022/07/rizhi/suibi/1996/)
+* :x: [线圈](https://xquan.net)：做出来的东西没人看，没人用，没人玩，没地方展示，怎么办？看过来！这是让创作者记录项目进展，分享进度成果，展示最终成品，并且可以得到来自用户（或粉丝）以及其他创作者们的反馈交流的创意平台~ -  [更多介绍](https://xquan.net/help)
+
+### 2022年6月17号添加
+---
+#### 秋风（北京）- [Github](https://github.com/hua1995116), [Jike](https://okjk.co/CEcbno)
+* :white_check_mark: [木及简历](https://www.mujicv.com): 基于 Markdown 编写的简历工具，包含多个可插拔式插件。专注简历内容，告别繁琐排版
+
+### 2022年6月13号添加
+---
+#### yangxuechen(成都) - [Github](https://github.com/yangxuechen/resume_vue3_ts)
+* :white_check_mark: [大象简历](https://yangxuechen.github.io/resume_vue3_ts/) :  开源的简历模板工具，支持在线编辑、导出 PDF 文件
+
+
+### 2022年6月6号添加
+---
+#### 自力6XStudio（深圳） - [Github](https://github.com/hzlzh), [Twitter](https://x.com/hzlzh)
+* :white_check_mark: [2Camera 双摄相机 (iOS)](https://apps.apple.com/cn/app/id1584095090)：前后双摄相机，双份故事，双倍精彩
+* :white_check_mark: [锁屏启动 (iOS)](https://apps.apple.com/cn/app/id1636719674)：丰富小组件、灵动岛网速/天气/步数等
+* :white_check_mark: [MenubarX (macOS)](https://MenubarX.app)：强大的 Mac 菜单栏浏览器，把网页添加到菜单栏上，像原生 App 一样即开即用
+* :white_check_mark: [DockX (macOS)](https://dockx.app/)：在程序坞显示任意状态，如：网速、CPU、时钟等
+* :white_check_mark: [钢琴小组件 (iOS)](https://6x.studio/piano-widget/)：无需启动，随时弹奏
+* :white_check_mark: [桌面计算器 (iOS)](https://desktop-calculator.com/)：超强的桌面计算器，无需打开App，随时随地计算
+* :white_check_mark: [StickerX (iOS)](https://6x.studio/stickerx/)：AI 一键抠图，表情包创作工具
+* :white_check_mark: [eyeye (iOS)](https://eyeye.app/)：运用 AR 眼球追踪技术帮助你轻松锻炼视力
+* :white_check_mark: [鸭梨海拔 (iOS)](https://apps.apple.com/cn/app/id6738301793)：精美海拔计，旅行海拔打卡必备
+* :white_check_mark: [念念不忘 (iOS)](https://buwang.app/)：简单粗暴的 iOS 提醒小组件
+* :white_check_mark: [Patreon Batch Downloader (Chrome扩展)](https://chromewebstore.google.com/detail/patreon-batch-downloader/mpdbndgiplhpkognodlmmjampheficlo)：批量下载Patreon帖子和附件
+* :white_check_mark: [App Store 全部作品](https://itunes.apple.com/cn/developer/id888749139)
+
+### 2022年6月5号添加
+---
+#### Runjuu（上海） - [Github](https://github.com/Runjuu), [Twitter](https://twitter.com/runjuuu)
+* :white_check_mark: [Input Source Pro](https://inputsource.pro)：优化 macOS 输入法使用体验；根据应用或网站自动切换输入法，自动展示当前输入法。
+* :x: [SongLink](https://apps.apple.com/cn/app/songlink/id1341416046)：多平台音乐搜索工具。
+
+### 2022年6月4号添加
+---
+#### Carson（广州） - [Github](https://github.com/CarsonLam)
+* :white_check_mark: [Quest新标签页](https://support.qq.com/products/308410/blog/744528)：【聚合搜索】新标签页效率插件。
+
+
+### 2022年5月31号添加
+---
+#### 酱咸(广州) - [Github](https://github.com/Maxbee)
+* :white_check_mark: [金橘记账](https://apps.apple.com/cn/app/%E9%87%91%E6%A2%A8-%E4%B8%AA%E4%BA%BA%E8%B5%84%E4%BA%A7%E8%AE%B0%E8%B4%A6%E5%8A%A9%E6%89%8B/id1551523441)：多人一起记账 股票基金自动记账的记账 App - [更多介绍](https://app.xgmm.me:3002/md_h5/front)
+
+### 2022年5月28号添加
+---
+#### 沈浪熊猫儿（杭州） - [Github](https://github.com/darcy-shen), [Gitee](https://gitee.com/darcyshen)
+* :white_check_mark: [墨干编辑器](https://gitee.com/XmacsLabs/mogan): 致力于让所有人畅快地学习既有的科学与技术，创造全新的科学与技术的结构化编辑器。- [更多介绍](https://www.bilibili.com/video/BV1tU4y1171q)
+
+### 2022年5月19号添加
+---
+#### zhangyw(北京) - [Github](https://github.com/zhangyingwei), [博客](https://blog.zhangyingwei.com)
+* :white_check_mark: [QuickDashboard](https://chrome.google.com/webstore/detail/quickdashboard/dicohhlagpacaelhmodlihaampnapape)：简洁美观的 Chrome 浏览器新标签页扩展 - [更多介绍](https://blog.zhangyingwei.com/posts/2022m5d16h20m22s20/)
+
+### 2022年5月6号添加
+---
+#### dunizb(杭州) - [GitHub](https://github.com/dunizb)，[个人主页](https://mo.run/zhangzhang/)
+* :x: [集美美图](https://apps.apple.com/cn/app/id1592148389)：简单纯粹的美女写真壁纸精选 APP。Android 版已上线小米、华为、百度、酷安、360应用市场 - [更多介绍](https://www.pgyer.com/jmmt)
+
+### 2022年4月18号添加
+---
+#### netbeen(杭州) - [GitHub](https://github.com/netbeen)
+* :white_check_mark: [Wealth Manager](https://wealth-manager.netbeen.top) : 家庭财务管理应用，支持总资产统计/各渠道下钻，公募基金持仓分析/收益率计算/年化收益率计算，保险列表/保险续费提醒，支持多用户共同维护一个账本。致力于让每个家庭对自身的财务状况、投资收益有更加清晰的认知 - [更多介绍](https://github.com/netbeen/wealth-manager-front-end)
+
+### 2022年4月16号添加
+---
+#### snow(北京) - [Github](https://github.com/yangpeng7), [博客](https://jiudian.link/)
+* :white_check_mark: [竹叶日历](https://s3.bmp.ovh/imgs/2022/04/15/8dd0930705a3989a.jpg)：极简的日历微信小程序 - [更多介绍](https://github.com/yangpeng7)
+
+### 2022年3月21号添加
+---
+#### Space Time - [Github](https://github.com/SpaceTimee), [博客](https://blog.spacetimee.xyz/)
+* :clock8: [Ona Pix](https://github.com/SpaceTimee/Ona-Pix)：Pixiv 直连搜图工具，梦想是成为优秀的 Pixiv 第三方直连客户端
+
+### 2022年02月15号添加
+---
+#### zhshch(北京)
+* :x: [NextSSH | SSH工具，不只是命令终端](https://xzhshch.com/)：具有现代化界面与丰富功能的 SSH 连接管理工具 🔧。
+
+### 2022年02月14号添加
+---
+#### 胡镇华(广州) - [Github](https://github.com/hzh-cocong), [博客](https://cocong.cn)
+* :x: [SaveTabs - Window & Tab Manager](https://www.cocong.cn/savetabs)：支持一键保存和打开所有网页，提高工作和学习效率。
+
+### 2022年02月06号添加
+---
+#### Norton(南京) - [GitHub](https://github.com/jiangdi0924), [bilibili](https://space.bilibili.com/228834724)
+* :white_check_mark: [Castflow](https://apps.apple.com/app/id1572179241)：简单快速的iOS泛用型播客App。
+
+* :white_check_mark: [鲨鱼取图](https://apps.apple.com/app/id1590075896)：N in 1 取图 App，支持多种取图方式，例如：视频取帧，网页长图，文本取图等。
+
+* :white_check_mark: [RSSCube](https://apps.apple.com/app/id1602812291)：全新的 RSS iOS 阅读器，给RSS用户提供一种新的阅读体验。
+
+
+### 2022年1月29号添加
+---
+#### 谢宇恒(深圳) - [主页](https://xieyuheng.com), [Github](https://github.com/xieyuheng)
+* :white_check_mark: [只读链接](https://readonly.link)：文档渲染工具，文字创作者的社区。来自书籍与文章的邀请～
+
+#### 洋子(成都) - [Github](https://github.com/purocean), [博客](https://blog-purocean.vercel.app/)
+* :white_check_mark: [Yank Note](https://github.com/purocean/yn)：面向程序员的 Markdown 本地笔记应用，支持代码片段运行、HTML 小工具、多种图表嵌入、历史版本回溯、插件拓展 - [更多介绍](https://blog-purocean.vercel.app/yank-note-01/)
+
+### 2022年1月10号添加
+---
+#### JRay0108(济南) - [Github](https://github.com/JRay0108)
+* :white_check_mark: [树影取名](https://github.com/JRay0108/shuying)：从诗经楚辞唐诗宋词等中华典籍中取名的微信小程序，也可查找名字出处及测算姓名运势。
+
+
+### 2021年12月8号添加
+---
+#### RyukieSama(广州) - [Github](https://github.com/RyukieSama), [博客](https://ryukiedev.gitbook.io/wiki/)
+* :white_check_mark: [梦见账本](https://apps.apple.com/cn/app/id1498426607)：百变外观，独创智能梦见模式的记账软件
+* :white_check_mark: [隐私访问记录](https://apps.apple.com/cn/app/id1590992377)：系统性分析隐私访问记录，让隐私小偷无处可藏
+
+### 2021年11月16号添加
+---
+#### Alecyrus - [GitHub](https://github.com/Alecyrus)
+* :x: [Thorn](https://app.thorn.press)：简单的写作应用，无限丝滑的创作体验 - [更多介绍](https://app.thorn.press/tutorial)
+
+### 2021年10月17号添加
+---
+#### lmk123 - [GitHub](https://github.com/lmk123), [博客](https://github.com/lmk123/blog/issues)
+* :white_check_mark: [划词翻译](https://hcfy.app)：跨平台的一站式划词、截图、网页全文、音视频翻译扩展 - [更多介绍](https://hcfy.app/docs/guides/summary/)
+
+### 2021年10月9号添加
+---
+#### nojsja(成都) - [Github](https://github.com/nojsja), [博客](https://nojsja.gitee.io/blogs/)
+* :white_check_mark: [shadowsocks-electron](https://github.com/nojsja/shadowsocks-electron)：Shadowsocks 跨平台客户端(Ubuntu/Mac x64) - [更多介绍](https://nojsja.gitee.io/blogs/2021/10/04/5384287.html/)
+
+### 2021年8月31号添加
+---
+#### Guyskk - [Github](https://github.com/guyskk), [博客](https://blog.guyskk.com/)
+* :white_check_mark: [蚁阅](https://rss.anyant.com/)：让 RSS 更好用，轻松订阅你喜欢的博客和资讯 - [更多介绍](https://github.com/anyant/rssant)
+
+### 2021年7月14号添加
+---
+#### Space Time - [Github](https://github.com/SpaceTimee), [博客](https://blog.spacetimee.xyz/)
+* :white_check_mark: [Vight Note](https://github.com/SpaceTimee/Vight-Note)：一只轻量级的临时文本处理工具
+
+### 2021年6月28号添加
+---
+#### SuperMonster003(北京) - [Github](https://github.com/SuperMonster003/Ant-Forest)
+* :white_check_mark: [Ant-Forest](https://github.com/SuperMonster003/Ant-Forest)：基于 Auto.js 的蚂蚁森林能量自动收取脚本 - [更多介绍](https://github.com/SuperMonster003/Ant-Forest/wiki/%E8%9A%82%E8%9A%81%E6%A3%AE%E6%9E%97-(Ant-Forest))
+
+### 2021年6月17号添加
+---
+#### 珒陶(广州) - [Github](https://github.com/chenjt2001), [博客](http://www.chenjt.com/)
+* :white_check_mark: [MindCanvas](http://www.chenjt.com/mindcanvas)：制作思维导图的 UWP 应用
+
+### 2021年6月16号添加
+---
+#### seth-shi(西安) - [Github](https://github.com/seth-shi), [博客](http://www.shiguopeng.cn/)
+* :x: [有梦记](https://www.youmengji.zone/)：有梦记让你一目了然你的过往。记住那些不愿忘记的梦!
+
+### 2021年6月14号添加
+---
+#### newbe36524(上海) - [Github](https://github.com/newbe36524/Amazing-Favorites)
+* :x: [Amazing-Favorites](https://af.newbe.pro/)：高效管理和搜索浏览器收藏的浏览器扩展。
+
+### 2021年6月11号添加
+---
+#### YJ1211 - [Github](https://github.com/guyijie1211)
+* :x: [MixLive](https://live.yj1211.work)：整合国内多个直播平台内容的网站
+
+### 2021年5月14号添加
+---
+#### 一粒豆子(深圳)
+* :x: [魔豆车主](https://www.yilidouzi.com)：更适合国人使用的特斯拉车主 App，记录特斯拉车辆行程及充电费用。 - [更多介绍](http://www.yilidouzi.com/)
+
+### 2021年4月9号添加
+---
+#### LisenH - [Github](https://github.com/LisenH)
+* :white_check_mark: [网页视频下载](https://m3w.cn/wyspxz)：支持几乎所有网页视频的下载，包括 M3U8
+
+### 2021年4月6号添加
+---
+#### zhangyw(北京) - [Github](https://github.com/zhangyingwei)
+* :x: [RSSFlow](http://rss.zhangyingwei.com)：RSS 阅读器（Web 端），以信息流的方式阅读你的订阅信息。
+
+### 2021年3月30号添加
+---
+#### sheepzh(深圳) - [Github](https://github.com/sheepzh)
+* :white_check_mark: [Make Zero](https://github.com/sheepzh/make-zero)：快捷易用的文本加解密浏览器扩展。支持手动和自动加解密，自定义密码，密文风格切换 - [更多介绍](https://www.bilibili.com/video/BV1x54y1t7MR)
+* :white_check_mark: [网费很贵](https://github.com/sheepzh/timer)：用于统计上网时间的浏览器扩展。多种统计口径，丰富的图表展示，支持数据导出 - [更多介绍](https://www.douban.com/group/topic/213888429/)
+
+### 2021年2月20号添加
+---
+#### secret_C - [Gitee](https://gitee.com/secret_C)
+* :white_check_mark: [secret-performance-desktop](https://gitee.com/SecretOpen/secret-performance-desktop)：让桌面炫酷起来的桌面个性化工具
+
+### 2021年2月14号添加
+---
+#### 西格玛(上海) - [Github](https://github.com/SigmaAdrich)
+* :x: [数字水印](http://www.shuiyin.online/)：肉眼不可见的水印 (严格地说来是肉眼不容易分辨的水印，所以比较难以识别出来并去除，减少破坏图片的完整性)
+
+### 2021年1月5号添加
+---
+#### 阿树(上海) - [Github](https://github.com/zhishu520)
+* :x: [早晨计划](https://apps.apple.com/cn/app/%E6%97%A9%E6%99%A8%E8%AE%A1%E5%88%92/id1542908683)：帮你早起一小时，规划生活，达成目标的app
+
+### 2021年1月4号添加
+---
+#### zhengmingpei(济南市) - [Github](https://github.com/ZhengMingpei)
+* :clock8: [视频进度条生成工具](https://gitee.com/zhengmingpei/VideoProgressBarTool-Windows)：帮助制作视频进度条的辅助小工具(暂时在 Gitee 上) - [更多介绍](https://www.bilibili.com/video/BV1ZA411p7M2/)
+
 
 ### 2020年12月23号添加
 ---
