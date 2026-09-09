@@ -577,7 +577,7 @@
 ### 2026 年 7 月 24 号添加
 
 #### cocodot2026 - [GitHub](https://github.com/cocodot2026)
-* :white_check_mark: [cocodot LLM 降智检测](https://probe.cocodot.co)：免费的 LLM API「降智/偷换模型」在线检测：填入任意 OpenAI 兼容端点的 base_url 和临时 API Key，跑 6 项探针（模型声明、动态题、能力完整性等）生成分项报告；Key 仅用于当次检测、不落库不留存，检测方法[开源](https://github.com/cocodot2026/cocodot-llmprobe)
+* :white_check_mark: [cocodot LLM 降智检测](https://probe.cocodot.co)：LLM API「降智/偷换模型」检测（免费）：填入任意 OpenAI 兼容端点的 base_url 和临时 API Key，跑 6 项探针（模型声明、动态题、能力完整性等）生成分项报告；Key 仅用于当次检测、不落库不留存，检测方法[开源](https://github.com/cocodot2026/cocodot-llmprobe)
 
 #### KKWANG4444 - [GitHub](https://github.com/KKWANG4444)
 * :white_check_mark: [AI快站模型质量检测](https://docs.aifast.club/model-check/)：面向 OpenAI Compatible 接口的网页检测工具，输入公开 HTTPS 地址和临时 API Key，可检查模型声明、Token、动态题、SSE 与工具调用并生成分项报告；密钥仅用于当次检测，不写入数据库、缓存或日志
@@ -1084,7 +1084,7 @@
 * :white_check_mark: [ImgToSTL](https://imgtostl.com/)：面向 3D 打印的 AI 图片转 STL 转换器
 
 #### pi(杭州)
-* :white_check_mark: [email signature generator](https://email-signature-generator.online/)：免费的专业邮件签名在线生成器
+* :white_check_mark: [email signature generator](https://email-signature-generator.online/)：专业邮件签名生成器（免费）
 
 #### Jimmy (北京) - [Github](https://github.com/)
 * :white_check_mark: [ToolGarden](https://toolgarden.xyz)：全能工具箱，免费在线，包含 JSON、PDF、图片、二维码、信息编解码、字幕制作等常用工具，完全本地浏览器处理，隐私安全
@@ -3567,7 +3567,7 @@
 * :white_check_mark: [Soulmate Sketch｜AI 灵魂伴侣素描（占星画像生成）](https://soulmatedrawing.live)：用 AI + 占星，为你生成专属的黑白手绘风格“灵魂伴侣画像”；10–20 秒极速呈现，多语言网站，移动端友好
 
 #### nogeek (杭州)
-* :white_check_mark: [初创公司到初创公司](https://startuptostartup.com)：免费的发布站 & 目录站
+* :white_check_mark: [初创公司到初创公司](https://startuptostartup.com)：发布站 & 目录站（免费）
 
 #### Lingglee - [Github](https://github.com/lingglee)
 * :white_check_mark: [Avif2Png](https://avif2png.com/)：Avif 转 PNG 工具站
@@ -3945,7 +3945,7 @@
 
 #### DamonTsang986(深圳) 
 * :white_check_mark: [CleverGet Free Recorder](https://www.leawo.org/cleverget-recorder/)：免费录制在线视频并可过滤广告的工具
-* :white_check_mark: [免费录屏器](https://www.leawo.com/free-screen-recorder/)：免费的4合1屏幕录制软件
+* :white_check_mark: [免费录屏器](https://www.leawo.com/free-screen-recorder/)：4 合 1 屏幕录制软件（免费）
 
 ### 2025 年 6 月 19 号添加
 #### smkwls(深圳) - [Github](https://github.com/smkwls)
@@ -4045,7 +4045,7 @@
 * :white_check_mark: [台灣解夢](https://twjiemeng.com/)：融合 AI 技术与传统解梦学说，为用户提供免费梦境解析服务，无需注册即可一直免费使用 - [更多介绍](https://twjiemeng.com/about)
 
 #### mao wei - [Github](https://github.com/mw138)
-* :white_check_mark: [AI 随机图片生成器](https://randomimagegenerator.info/index.html)：免费的 AI 随机图片生成器，支持数字艺术、抽象背景、概念插图等多种风格
+* :white_check_mark: [AI 随机图片生成器](https://randomimagegenerator.info/index.html)：随机图片生成工具（免费），支持数字艺术、抽象背景、概念插图等多种风格
 
 #### Anna - [Github](https://github.com/fluxstrive)
 * :x: [Bypass Turnitin](https://bypassturnitin.net/)：将 AI 生成的内容转换为自然的文本，绕过 Turnitin 和 AI 检测，同时保留原文的含义和质量
@@ -4078,7 +4078,7 @@
 * :white_check_mark: [NoteGen](https://notegen.top/)：跨平台的 Markdown AI 笔记软件，致力于使用 AI 建立记录和写作的桥梁
 
 #### Anna - [Github](https://github.com/fluxstrive)
-* :white_check_mark: [Mii Maker](https://miimaker.net/)：免费的在线角色创建者，可以让你设计个性化的 Mii 化身。创建具有可定制功能的独特虚拟角色，包括脸型、发型、眼睛、衣服和配饰
+* :white_check_mark: [Mii Maker](https://miimaker.net/)：角色创建者（免费），可以让你设计个性化的 Mii 化身。创建具有可定制功能的独特虚拟角色，包括脸型、发型、眼睛、衣服和配饰
 
 #### Corey Chiu - [Github](https://github.com/iamcorey)
 * :white_check_mark: [JSON Merge](https://jsonmerge.com/)：JSON 合并工具
@@ -5023,7 +5023,7 @@
 * :white_check_mark: [Emoji Spark](https://emojispark.com)：AI Emoji 搜索工具
 
 ### 2024 年 8 月 25 号添加
-* :white_check_mark: [AI Anime Generator](https://aianimegen.org)：免费的 AI 动漫图片生成器
+* :white_check_mark: [AI Anime Generator](https://aianimegen.org)：AI 动漫图片生成器（免费）
 
 ### 2024 年 8 月 22 号添加
 #### 木木木
@@ -5080,7 +5080,7 @@
 
 ### 2024 年 8 月 12 号添加
 #### blank - [Twitter](https://x.com/blankwebdev)
-* :white_check_mark: [AITDK SEO Extension](https://aitdk.com/extension)：免费的 All-in-One SEO 浏览器插件，支持一键查看网站的流量、Whois、关键词密度等 SEO 信息
+* :white_check_mark: [AITDK SEO Extension](https://aitdk.com/extension)：All-in-One SEO 浏览器插件（免费），支持一键查看网站的流量、Whois、关键词密度等 SEO 信息
 * :white_check_mark: [Comment Fast](https://commentfast.com/)：基于 AI 的快速评论工具，为任意帖子或文章生成高质量评论
 
 ### 2024 年 8 月 10 号添加
@@ -5475,7 +5475,7 @@
 - :white_check_mark: [ElemSnap](https://chromewebstore.google.com/detail/elemsnap/mblkhbaakhbhiimkbcnmeciblfhmafna)：捕获网页元素，转化为图片自动美化的浏览器插件
 
 #### Ethan Sunray（纽约）
-- :white_check_mark: [AI Image Generator](https://aiimagegenerator.io/)：免费的在线 AI 文本到图像生成工具，支持 AI 纹身生成器、AI 动漫生成器、AI 3D 表情生成器、AI 宝可梦生成器等，无需登录，不限使用次数。
+* :white_check_mark: [AI Image Generator](https://aiimagegenerator.io/)：AI 文本到图像生成工具（免费），支持 AI 纹身生成器、AI 动漫生成器、AI 3D 表情生成器、AI 宝可梦生成器等，无需登录，不限使用次数
 - :clock8: [AI Video Generator](https://videoai.cc/)：AI 视频生成器，很快会支持 Stable Video Diffusion (SVD) 和 AnimateDiff 在线使用，视频风格转换功能也在加急开发中。
 
 #### 射手科技(珠海) 
