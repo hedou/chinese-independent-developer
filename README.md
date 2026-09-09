@@ -25,6 +25,12 @@
 ## 3. 项目列表
 ### 2026 年 9 月 9 号添加
 
+#### DustarCode(浙江) - [Github](https://github.com/DustarCode)
+* :white_check_mark: [PicPermit](https://picpermit.com/)：证件照与护照/签证制作工具（免费），支持全球 500+ 官方规格、ICAO 生物线辅助与人脸对齐，抠图，换背景，照片完全本地处理，可导出 300 DPI 电子照与 4×6 寸排版冲印版
+
+#### chaojieY26 - [Github](https://github.com/chaojieY26)
+* :white_check_mark: [Thumbrix](https://thumbrix.com)：面向 YouTube 创作者的 AI 缩略图生成工具，输入文字或上传照片即可生成封面，方便尝试不同设计、优化封面点击率，支持免费试用
+
 #### pandaupup(广州) - [Github](https://github.com/pandaupup)
 * :white_check_mark: [Interval Timers](https://intervaltimers.org/)：间歇计时器（免费），可设置工作时间、休息时间、准备倒计时和循环轮数，并提供声音提示，适合 HIIT、Tabata、健身训练以及其他需要工作/休息循环计时的场景
 * :white_check_mark: [Dead Pixel Test](https://deadpixeltestpro.org/)：屏幕坏点测试工具（免费），通过全屏纯色测试帮助检查显示器、笔记本电脑和其他屏幕的坏点、亮点、暗点及显示异常
