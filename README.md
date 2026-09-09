@@ -26,8 +26,8 @@
 ### 2026 年 9 月 9 号添加
 
 #### pandaupup(广州) - [Github](https://github.com/pandaupup)
-* :white_check_mark: [Interval Timers](https://intervaltimers.org/)：免费的间歇计时器，可设置工作时间、休息时间、准备倒计时和循环轮数，并提供声音提示，适合 HIIT、Tabata、健身训练以及其他需要工作/休息循环计时的场景
-* :white_check_mark: [Dead Pixel Test](https://deadpixeltestpro.org/)：免费的屏幕坏点测试工具，通过全屏纯色测试帮助检查显示器、笔记本电脑和其他屏幕的坏点、亮点、暗点及显示异常
+* :white_check_mark: [Interval Timers](https://intervaltimers.org/)：间歇计时器（免费），可设置工作时间、休息时间、准备倒计时和循环轮数，并提供声音提示，适合 HIIT、Tabata、健身训练以及其他需要工作/休息循环计时的场景
+* :white_check_mark: [Dead Pixel Test](https://deadpixeltestpro.org/)：屏幕坏点测试工具（免费），通过全屏纯色测试帮助检查显示器、笔记本电脑和其他屏幕的坏点、亮点、暗点及显示异常
 
 #### Anton Li - [Github](https://github.com/AntonLi-PM)
 * :white_check_mark: [Ropond Proxy Cloud](https://ropond.com/)：全球高纯净动态住宅代理网络，专为出海企业、跨境电商独立站与 AI 深度搜索提供防封穿透基础设施，提供 1GB 免费开发者测试配额 - [反爬与社媒过盾基准看板](https://antonli-pm.github.io/anti-bot-bypass-benchmark/)
