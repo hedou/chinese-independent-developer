@@ -2,6 +2,11 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 9 月 9 号添加
+
+#### the-beating-light-of-the-nail - [Github](https://github.com/the-beating-light-of-the-nail)
+* :white_check_mark: [海克斯小秘书](https://aramkit.cdqyfdbymn.me/)：《英雄联盟》海克斯大乱斗（ARAM Mayhem）攻略站，选人前查 173 位英雄的实时胜率排行、六神装、技能加点和银/金/棱彩强化符文推荐，三源数据每晚自动聚合，中英日韩等 12 种语言，打开即用无需注册
+
 ### 2026 年 9 月 8 号添加
 
 #### pandaupup(广州) - [Github](https://github.com/pandaupup)
