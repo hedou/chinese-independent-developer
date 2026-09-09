@@ -25,6 +25,9 @@
 ## 3. 项目列表
 ### 2026 年 9 月 9 号添加
 
+#### MuYiBo - [Github](https://github.com/MuYiBo)
+* :white_check_mark: [Gpt Image 2.5 图片生成器](https://gptimage25.biz/)：基于 Gpt Image 2.5 模型的图片工作台，生成与编辑同界面操作，支持一次生成多张图片快速比对挑选 — 免费试用
+
 #### DustarCode(浙江) - [Github](https://github.com/DustarCode)
 * :white_check_mark: [PicPermit](https://picpermit.com/)：证件照与护照/签证制作工具（免费），支持全球 500+ 官方规格、ICAO 生物线辅助与人脸对齐，抠图，换背景，照片完全本地处理，可导出 300 DPI 电子照与 4×6 寸排版冲印版
 
